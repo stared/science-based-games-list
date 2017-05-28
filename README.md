@@ -1,13 +1,11 @@
 # Science-based games
 
-Here is a collaborative notepad with educational/science games.
-
-Two parts are crucial:
+Here is a collaborative notepad with educational/science games, i.e. games thar are:
 
 * capturing parts of a real scientific phenomena,
-* actually playable (you can play for fun, not *for classroom only*).
+* actually playable (you can play them for fun, not ones from the *"for classroom only"* category).
 
-Started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)), everyone is welcomed to contribute!
+This list was started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)), everyone is welcomed to contribute! (The easiest way is to edit this file, commit and create a Pull Request.)
 
 ## Games
 
