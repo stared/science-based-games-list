@@ -106,6 +106,12 @@ Game and interactive tool on learning biology.
 * understanding depression (esp. for ones who never experienced it)
 * text-based game
 
+### Kerbal Space Program
+
+* [kerbalspaceprogram.com](https://kerbalspaceprogram.com)
+* Newtonian physics, space program
+* strategy
+
 ### Mathbreakers
 
 * [www.mathbreakers.com](https://www.mathbreakers.com/)
@@ -201,6 +207,7 @@ Game and interactive tool on learning biology.
 * fractions
 * puzzle
 * paper on optimizing: http://grail.cs.washington.edu/projects/ordering/
+
 
 ## Prototypes
 
