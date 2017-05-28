@@ -80,8 +80,14 @@ Game and interactive tool on learning biology.
 
 ### HyperRogue
 
-* [www.roguetemple.com/z/hyper.php](http://www.roguetemple.com/z/hyper.php)
+* [www.roguetemple.com/z/hyper/](http://www.roguetemple.com/z/hyper/)
 * geometry of hyperbolic plane
+* a rogue-like game
+
+### HydraSlayer
+
+* [www.roguetemple.com/z/hydra/](http://www.roguetemple.com/z/hydra/)
+* arithmetics, a bit of number theory
 * a rogue-like game
 
 ### Chromatron
