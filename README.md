@@ -225,6 +225,6 @@ If it is possible to gamify so seemingly boring things as learning keyboard shor
 
 ## Meta
 
-* Do it in YAML?
+* Do it in YAML? (To make it more semantic.)
 * Add other fields like release date or dev status?
 * Add some standardized (600x400?) screenshots?
