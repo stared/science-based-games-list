@@ -72,12 +72,6 @@ This list was started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Qu
 * Israel-Palestine peace process (unfortunately outdated and too optimistic)
 * strategy
 
-### Spongelab
-
-* [http://www.spongelab.com](http://www.spongelab.com/)
-
-Game and interactive tool on learning biology.
-
 ### HyperRogue
 
 * [www.roguetemple.com/z/hyper/](http://www.roguetemple.com/z/hyper/)
@@ -162,12 +156,6 @@ Game and interactive tool on learning biology.
 * [www.meqanic.com/app](http://www.meqanic.com/app/)
 * quantum computation and quantum information
 * puzzle / blocks
-
-### Genehackers
-
-* [www.genehackers.info](http://www.genehackers.info/)
-* microbiology
-* arcade
 
 ### Relativity Wars
 
