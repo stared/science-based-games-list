@@ -222,8 +222,9 @@ If it is possible to gamify so seemingly boring things as learning keyboard shor
 * [www.vimsnake.com](http://www.vimsnake.com/)
 
 
-## Meta
+## Meta / TODO
 
 * Do it in YAML? (To make it more semantic.)
+* Make it more visual? (In the line of https://github.com/EliotAndres/kaggle-past-solutions.)
 * Add other fields like release date or dev status?
 * Add some standardized (600x400?) screenshots?
