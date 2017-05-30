@@ -1,6 +1,6 @@
 # Science-based games
 
-Here is a collaborative notepad with educational/science games, i.e. games thar are:
+Here is a collaborative notepad with educational/science games, i.e. games that are:
 
 * capturing parts of a real scientific phenomena,
 * actually playable (you can play them for fun, not ones from the *"for classroom only"* category).
