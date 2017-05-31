@@ -76,6 +76,13 @@ A mini table of content: [Physics](#physics), [Biology](#biology) [Computer Scie
 * source: [github.com/stared/quantum-game](https://github.com/stared/quantum-game)
 * blog post: [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html)
 
+#### Quantum Moves, Quantum Minds
+
+* [www.scienceathome.org/games](https:/www.scienceathome.org/games)
+* adiabatic processes for quantum states
+* puzzle / action
+* citizen science
+
 
 ### Biology
 
@@ -92,6 +99,13 @@ A mini table of content: [Physics](#physics), [Biology](#biology) [Computer Scie
 * plant and cell biology
 * flight simulator
 * nice descriptions of encountered elements
+
+#### Foldit
+
+* [fold.it](https://fold.it)
+* protein conformation
+* 3d puzzle
+* citizen science
 
 #### Evolution: the origin of species
 
