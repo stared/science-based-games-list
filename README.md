@@ -148,6 +148,15 @@ A mini table of content: [Physics](#physics), [Biology](#biology) [Computer Scie
 * see also: [Lessons Learned from Shenzhen I/O
 ](https://probablydance.com/2016/11/07/lessons-learned-from-shenzhen-io/)
 
+#### Decodoku
+
+* [http://decodoku.com/](http://decodoku.com/)
+* quantum computation
+* quantum error correction
+* citizen science
+* Web / Mac / Windows / Android / iPhone
+* see also: [Decodoku in 2017](https://medium.com/@decodoku/decodoku-in-2017-e68e63a6d09c)
+
 ### Health
 
 #### Lifesaver
