@@ -148,6 +148,27 @@ A mini table of content: [Physics](#physics), [Biology](#biology) [Computer Scie
 * see also: [Lessons Learned from Shenzhen I/O
 ](https://probablydance.com/2016/11/07/lessons-learned-from-shenzhen-io/)
 
+#### Robozzle
+
+* [http://www.robozzle.com/](http://www.robozzle.com/)
+* algorithms
+* puzzle
+* user-generated content
+
+#### Human Resource Machine
+
+* [https://tomorrowcorporation.com/humanresourcemachine](https://tomorrowcorporation.com/humanresourcemachine)
+* programming
+* puzzle
+* automation and optimization
+* from the designers of Little Inferno and World of Goo 
+
+#### Hour of Code
+
+* [https://code.org/learn](https://code.org/learn)
+* many puzzle games about programming and algorithms
+* some famous licences (ie. Minecraft, Disney)
+
 #### Decodoku
 
 * [http://decodoku.com/](http://decodoku.com/)
@@ -156,6 +177,7 @@ A mini table of content: [Physics](#physics), [Biology](#biology) [Computer Scie
 * citizen science
 * Web / Mac / Windows / Android / iPhone
 * see also: [Decodoku in 2017](https://medium.com/@decodoku/decodoku-in-2017-e68e63a6d09c)
+
 
 ### Health
 
