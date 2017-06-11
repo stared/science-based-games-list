@@ -7,7 +7,7 @@ Here is a collaborative notepad with educational/science games, i.e. games that 
 
 This list was started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)), everyone is welcomed to contribute! (The easiest way is to edit this file, commit and create a Pull Request.)
 
-A mini table of content: [Physics](#physics), [Biology](#biology) [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
+A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
 
 ## Games
 
