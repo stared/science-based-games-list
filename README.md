@@ -83,6 +83,12 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * puzzle / action
 * citizen science
 
+### The Electric Shocktopus
+
+* [testtubegames.com/shocktopus.html](http://testtubegames.com/shocktopus.html)
+* electromagnetism
+* platformer
+
 
 ### Biology
 
