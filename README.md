@@ -208,6 +208,13 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 
 ### Mathematics
 
+#### SET
+
+* [www.setgame.com](http://www.setgame.com/)
+* addition in finite field (`Z_3^4`)
+* real-time card game
+* [Set (game) - Wikipedia](https://en.wikipedia.org/wiki/Set_%28game%29) and [Which popular games are the most mathematical? - MathOverflow](https://mathoverflow.net/a/13645)
+
 #### A game of numbers
 
 * [agameofnumbers.com](http://agameofnumbers.com/)
@@ -239,12 +246,11 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * [euclidthegame.com](http://euclidthegame.com/)
 * planar geometry
 
-
 #### Euclidea
 * [euclidea](https://www.euclidea.xyz/)
 * planar geometry
 
-####  Refractions
+#### Refractions
 
 * [centerforgamescience.org/blog/portfolio/refraction](http://centerforgamescience.org/blog/portfolio/refraction/)
   * [Refractions 2 for iPad](https://itunes.apple.com/us/app/refraction-2/id720246677)
