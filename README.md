@@ -308,17 +308,19 @@ If it is possible to gamify so seemingly boring things as learning keyboard shor
 
 ### How to contribute
 
-#### Games
+#### Content
 
 The easiest way is to edit this file, commit and create a Pull Request.
 
 Remeber to include:
 
-* working link (and its nicer version)
-* field of science or enginering
-* type of game
-* (optional) technology or system ()
+* working link (and its nicer version), e.g. `[immunology-fps.edu](https://immunology-fps.edu)`
+* field of science or enginering, e.g. `immunology`
+* type of game `first-person shooter`
+* (optional) technology or system, e.g. `Android, iOS, web`
 * (optional) link to additional materials (e.g. repo, some interesting blog post about this game)
+
+#### Form
 
 If you want to change its form, you are invited as well - but then create your fork (and I would be happy to hear about it!).
 
