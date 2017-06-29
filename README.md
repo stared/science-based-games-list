@@ -314,8 +314,6 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * philosophical concepts, fallacies
 
 
-
-
 ### Bonus
 
 #### (prototype) Grounded: Circuits
