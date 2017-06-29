@@ -93,6 +93,12 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * electromagnetism
 * platformer
 
+#### High Frontier
+
+* [boardgamegeek.com/boardgame/172737/high-frontier-3rd-edition](https://boardgamegeek.com/boardgame/172737/high-frontier-3rd-edition)
+* models space mission logistics
+* living game board and rules incorporate actual data as it is discovered
+* realistic resource usage and phyisics modeling
 
 ### Biology
 
@@ -129,6 +135,13 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * digestion
 * tower defense
 * Android, iOS (soon on web)
+
+#### Bios: Genesis
+
+* [boardgamegeek.com/boardgame/98918/bios-genesis](https://boardgamegeek.com/boardgame/98918/bios-genesis)
+* players start as organic compounds shortly after Earth's formation
+* create autocatalytic life and darwinian life
+* Players can play cooperative, competitive, or solitaire.
 
 ### Computer science
 
