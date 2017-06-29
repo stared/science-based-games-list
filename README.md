@@ -200,6 +200,14 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * [Cube Composer](http://david-peter.de/cube-composer/)
 * A puzzle game which is inspired by functional programming methods
 
+#### Factorio
+
+* [https://factorio.com](https://www.factorio.com/)
+* simulation building
+* collect resources and design factories
+* automate all aspects of factory production
+* Windows / Mac / Linux
+
 ### Health
 
 #### Lifesaver
