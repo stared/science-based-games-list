@@ -325,7 +325,7 @@ If it is possible to gamify so seemingly boring things as learning keyboard shor
 
 The easiest way is to edit this file, commit and create a Pull Request.
 
-Remeber to include:
+Remember to include:
 
 * working link (and its nicer version), e.g. `[immunology-fps.edu](https://immunology-fps.edu)`
 * field of science or enginering, e.g. `immunology`
