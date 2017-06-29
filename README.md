@@ -85,11 +85,17 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * puzzle / action
 * citizen science
 
-### The Electric Shocktopus
+#### The Electric Shocktopus
 
 * [testtubegames.com/shocktopus.html](http://testtubegames.com/shocktopus.html)
 * electromagnetism
 * platformer
+
+#### Talky Lander
+
+* [talkylander.com](https://talkylander.com/)
+* Rocket Science
+* Free, on web
 
 
 ### Biology
