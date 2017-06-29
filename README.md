@@ -4,7 +4,7 @@
 
 Here is a collaborative notepad with educational/science games, i.e. games that are:
 
-* capturing parts of a real scientific phenomena,
+* capturing parts of real scientific phenomena,
 * actually playable (you can play them for fun, not ones from the *"for classroom only"* category).
 
 This list was started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)), everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute).
