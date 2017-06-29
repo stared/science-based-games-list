@@ -333,6 +333,10 @@ Remeber to include:
 * (optional) technology or system, e.g. `Android, iOS, web`
 * (optional) link to additional materials (e.g. repo, some interesting blog post about this game)
 
+A game needs to fit this category and it needs to have science-based mechanics (not only theme!) as its major part as:
+
+> Any sufficiently advanced game is indistinguishable from a science-based game. - [PM, HN comment](https://news.ycombinator.com/item?id=14662356)
+
 #### Form
 
 If you want to change its form, you are invited as well - but then create your fork (and I would be happy to hear about it!).
