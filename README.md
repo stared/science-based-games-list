@@ -250,6 +250,12 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * puzzle
 * paper on optimizing: http://grail.cs.washington.edu/projects/ordering/
 
+#### Havel-Hakimi
+
+* [jacquerie.github.io/hh/](http://jacquerie.github.io/hh/)
+* graph theory
+* puzzle
+
 ### Sociology and economy
 
 #### Peacemaker
