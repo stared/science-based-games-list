@@ -121,6 +121,13 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * evolution
 * card game
 
+#### Digestix
+
+* [learning.alimentarium.ch/en/games](https://learning.alimentarium.ch/en/games)
+* digestion
+* tower defense
+* Android, iOS (soon on web)
+
 ### Computer science
 
 #### Turing Game
