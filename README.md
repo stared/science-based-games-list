@@ -184,6 +184,10 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * Web / Mac / Windows / Android / iPhone
 * see also: [Decodoku in 2017](https://medium.com/@decodoku/decodoku-in-2017-e68e63a6d09c)
 
+#### Cube Composer
+
+* [Cube Composer](http://david-peter.de/cube-composer/)
+* A puzzle game which is inspired by functional programming methods
 
 ### Health
 
@@ -231,6 +235,11 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 #### Euclid the Game
 
 * [euclidthegame.com](http://euclidthegame.com/)
+* planar geometry
+
+
+#### Euclidea
+* [euclidea](https://www.euclidea.xyz/)
 * planar geometry
 
 ####  Refractions
