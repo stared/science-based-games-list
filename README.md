@@ -9,7 +9,7 @@ Here is a collaborative notepad with educational/science games, i.e. games that 
 
 So in general, once that may make you say *I played X for its own sake, yet I've learnt how Y works!* for Y being advanced enough.
 
-This list was started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)), everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute).
+This is a collaborative, public domain ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)) list, where everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute). It was started, and is being maintained, by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)).
 
 A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
 
