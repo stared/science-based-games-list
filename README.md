@@ -1,11 +1,13 @@
 # Science-based games
 
+> The list is essentially about educational based games that nailed entertainment (with a focus on scientific phenomenon). - [mettamage on HN](https://news.ycombinator.com/item?id=14661821)
+
 Here is a collaborative notepad with educational/science games, i.e. games that are:
 
 * capturing parts of a real scientific phenomena,
 * actually playable (you can play them for fun, not ones from the *"for classroom only"* category).
 
-This list was started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)), everyone is welcomed to contribute! (The easiest way is to edit this file, commit and create a Pull Request.)
+This list was started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)), everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute).
 
 A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
 
@@ -302,7 +304,27 @@ If it is possible to gamify so seemingly boring things as learning keyboard shor
 * [www.vimsnake.com](http://www.vimsnake.com/)
 
 
-## Meta / TODO
+## Meta
+
+### How to contribute
+
+#### Games
+
+The easiest way is to edit this file, commit and create a Pull Request.
+
+Remeber to include:
+
+* working link (and its nicer version)
+* field of science or enginering
+* type of game
+* (optional) technology or system ()
+* (optional) link to additional materials (e.g. repo, some interesting blog post about this game)
+
+If you want to change its form, you are invited as well - but then create your fork (and I would be happy to hear about it!).
+
+All remarks, questions or discussions go to https://github.com/stared/science-based-games-list/issues/ (or [@pmigdal Twitter](https://twitter.com/pmigdal)).
+
+### Ideas
 
 * Do it in YAML? (To make it more semantic.)
 * Make it more visual? (In the line of https://github.com/EliotAndres/kaggle-past-solutions.)
