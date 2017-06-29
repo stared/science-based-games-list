@@ -4,8 +4,10 @@
 
 Here is a collaborative notepad with educational/science games, i.e. games that are:
 
-* capturing parts of real scientific phenomena,
-* actually playable (you can play them for fun, not ones from the *"for classroom only"* category).
+* capturing parts of real scientific phenomena (including social science, medicine, eetc),
+* actually playable (you can play them for fun, not ones *"for classroom only"*).
+
+So in general, once that may make you say *I played X for its own sake, yet I've learnt how Y works!* for Y being advanced enough.
 
 This list was started by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)), everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute).
 
@@ -85,7 +87,7 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * puzzle / action
 * citizen science
 
-### The Electric Shocktopus
+#### The Electric Shocktopus
 
 * [testtubegames.com/shocktopus.html](http://testtubegames.com/shocktopus.html)
 * electromagnetism
@@ -209,7 +211,7 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 #### Depression Quest
 
 * [www.depressionquest.com](http://www.depressionquest.com/)
-* understanding depression (esp. for ones who never experienced it)
+* leaving with depression (for ones who have never experienced it)
 * text-based game
 
 
@@ -336,6 +338,10 @@ Remember to include:
 A game needs to fit this category and it needs to have science-based mechanics (not only theme!) as its major part as:
 
 > Any sufficiently advanced game is indistinguishable from a science-based game. - [PM, HN comment](https://news.ycombinator.com/item?id=14662356)
+
+Also, for games from typical genres bar is much higher. It is not enough that "you learn anout ancient warfare" or "you explore the outer space".
+As a rule of thumb, mainstream games don't fit here. (With an exception of Kerbal Space Program).
+
 
 #### Form
 
