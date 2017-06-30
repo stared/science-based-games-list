@@ -219,6 +219,18 @@ A mini table of contents: [Physics](#physics), [Biology](#biology), [Computer Sc
 * [Cube Composer](http://david-peter.de/cube-composer/)
 * A puzzle game which is inspired by functional programming methods
 
+
+#### Untrusted —or— the Continuing Adventures of Dr. Eval
+
+* [Play online](http://alexnisnevich.github.io/untrusted/)
+* [Github](https://github.com/AlexNisnevich/untrusted)
+* programming
+* roguelike,puzzle
+* web, Javascript
+* Meta-JavaScript Adventure Game wherein you guide the dashing, steadfast Dr. Eval through a mysterious MACHINE CONTINUUM, wherein, using only his trusty computer and the TURING-COMPLETE power of JavaScript, he must literally ALTER HIS REALITY in order to find his freedom!
+* The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
+
+
 #### Factorio
 
 * [https://factorio.com](https://www.factorio.com/)
