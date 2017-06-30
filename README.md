@@ -232,7 +232,7 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 #### Depression Quest
 
 * [www.depressionquest.com](http://www.depressionquest.com/)
-* leaving with depression (for ones who have never experienced it)
+* living with depression (for ones who have never experienced it)
 * text-based game
 
 
