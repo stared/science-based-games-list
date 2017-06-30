@@ -7,11 +7,11 @@ Here is a collaborative notepad with educational/science games, i.e. games that 
 * capturing parts of real scientific phenomena (including social science, medicine, etc),
 * actually playable (you can play them for fun, not ones *"for classroom only"*).
 
-So in general, once that may make you say *I played X for its own sake, yet I've learnt how Y works!* for Y being advanced enough.
+So in general, ones that may make you say *I played X for its own sake, yet I've learnt how Y works!* for Y being advanced enough.
 
 This is a collaborative, public domain ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)) list, where everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute). It was started, and is being maintained, by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)).
 
-A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
+A mini table of contents: [Physics](#physics), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
 
 ## Games
 
@@ -69,7 +69,7 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 #### Relativity Wars
 
 * [www.fungameco.com/relativity-wars.php](http://www.fungameco.com/relativity-wars.php)
-* space arcade / rts
+* space arcade / RTS
 * some parts of relativity
 
 #### Quantum Game with Photons
@@ -203,7 +203,7 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 
 * [https://code.org/learn](https://code.org/learn)
 * many puzzle games about programming and algorithms
-* some famous licences (ie. Minecraft, Disney)
+* some famous licences (e.g., Minecraft, Disney)
 
 #### Decodoku
 
@@ -340,7 +340,7 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 
 #### (side note) Vim shortcuts gamified
 
-If it is possible to gamify so seemingly boring things as learning keyboard shortcuts, then sky's the limit!
+If it is possible to gamify such seemingly boring things as learning keyboard shortcuts, then the sky's the limit!
 
 * [vim-adventures.com](http://vim-adventures.com/)
 * [www.vimsnake.com](http://www.vimsnake.com/)
@@ -366,8 +366,8 @@ A game needs to fit this category and it needs to have science-based mechanics (
 
 > Any sufficiently advanced game is indistinguishable from a science-based game. - [PM, HN comment](https://news.ycombinator.com/item?id=14662356)
 
-Also, for games from typical genres bar is much higher. It is not enough that "you learn anout ancient warfare" or "you explore the outer space".
-As a rule of thumb, mainstream games don't fit here. (With an exception of Kerbal Space Program).
+Also, for games from typical genres, the bar is much higher. It is not enough that "you learn about ancient warfare" or "you explore outer space".
+As a rule of thumb, mainstream games don't fit here (with the exception of Kerbal Space Program).
 
 
 #### Form
