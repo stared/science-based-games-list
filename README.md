@@ -100,6 +100,12 @@ A mini table of content: [Physics](#physics), [Biology](#biology), [Computer Sci
 * living game board and rules incorporate actual data as it is discovered
 * realistic resource usage and phyisics modeling
 
+#### Osmos
+
+* [www.osmos-game.com](http://www.osmos-game.com/)
+* gravity and conservation of momentum
+* puzzle / action / strategy
+
 ### Biology
 
 #### Cellcraft
