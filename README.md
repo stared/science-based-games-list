@@ -4,7 +4,7 @@
 
 Here is a collaborative notepad with educational/science games, i.e. games that are:
 
-* capturing parts of real scientific phenomena (including social science, medicine, eetc),
+* capturing parts of real scientific phenomena (including social science, medicine, etc),
 * actually playable (you can play them for fun, not ones *"for classroom only"*).
 
 So in general, once that may make you say *I played X for its own sake, yet I've learnt how Y works!* for Y being advanced enough.
