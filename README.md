@@ -106,7 +106,41 @@ A mini table of contents: [Physics](#physics), [Biology](#biology), [Computer Sc
 * gravity and conservation of momentum
 * puzzle / action / strategy
 
+### Chemistry
+
+#### Covalence
+
+* [boardgamegeek.com/boardgame/184663/covalence-molecule-building-game](https://boardgamegeek.com/boardgame/184663/covalence-molecule-building-game)
+* molecules
+
+#### Ion
+
+* [boardgamegeek.com/boardgame/174611/ion-compound-building-game](https://boardgamegeek.com/boardgame/174611/ion-compound-building-game)
+* compounds
+
 ### Biology
+
+#### Cytosis
+
+* [boardgamegeek.com/boardgame/202977/cytosis-cell-biology-game](https://boardgamegeek.com/boardgame/202977/cytosis-cell-biology-game)
+* cell biology
+
+#### Linkage
+
+* [boardgamegeek.com/boardgame/157586/linkage-dna-card-game](https://boardgamegeek.com/boardgame/157586/linkage-dna-card-game)
+* molecular genetics
+
+#### Peptide
+
+* [boardgamegeek.com/boardgame/166298/peptide-protein-building-game](https://boardgamegeek.com/boardgame/166298/peptide-protein-building-game)
+* proteins
+
+#### Virulence
+
+* [boardgamegeek.com/boardgame/202207/virulence-infectious-card-game](https://boardgamegeek.com/boardgame/202207/virulence-infectious-card-game)
+* viruses
+
+#### 
 
 #### Cellcraft
 
