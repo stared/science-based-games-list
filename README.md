@@ -279,6 +279,17 @@ A mini table of contents: [Physics](#physics), [Biology](#biology), [Computer Sc
 * automate all aspects of factory production
 * Windows / Mac / Linux
 
+
+#### Infinifactory
+
+* [Infinifactory](http://www.zachtronics.com/infinifactory/)
+* puzzle
+* algorithms
+* optimization
+* Like a cross between SpaceChem and Factorio
+* Windows / Mac / Linux
+
+
 ### Health
 
 #### Lifesaver
