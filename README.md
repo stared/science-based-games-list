@@ -11,7 +11,7 @@ So in general, ones that may make you say *I played X for its own sake, yet I've
 
 This is a collaborative, public domain ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)) list, where everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute). It was started, and is being maintained, by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)).
 
-A mini table of contents: [Physics](#physics), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
+A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
 
 ## Games
 
