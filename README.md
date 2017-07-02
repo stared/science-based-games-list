@@ -304,6 +304,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * living with depression (for ones who have never experienced it)
 * text-based game
 
+#### Vax!
+
+* [http://vax.herokuapp.com](http://vax.herokuapp.com/)
+* epidemic prevention
+* vaccination
+* network science
+
 
 ### Mathematics
 
