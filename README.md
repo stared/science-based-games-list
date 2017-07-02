@@ -23,8 +23,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * special relativity theory
   * contraction, time dilation, Doppler shift
 * 2D arcade / puzzle
-* platform: on web (Flash)
-* license: proprietary
+* free, on web (Flash)
 
 #### Agent Higgs
 
@@ -32,8 +31,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * elementary particles
   * charges, antiparticles, neutrino oscillations, decay
 * puzzle ([Atomix](https://en.wikipedia.org/wiki/Atomix_%28video_game%29)-like)
-* platforms: iOS game (2 chapter free of charge, on web (Flash))
-* license: proprietary
+* iOS game (2 chapter free, on web (Flash))
 
 #### A slower speed of light
 
@@ -41,8 +39,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * special relativity theory
   * Doppler shift, geometric distortions
 * 3D first person perspective walking
-* platforms: Unity-based on GNU/Linux, MacOS, Windows
-* license: MIT, code on GitHub: [github.com/MITGameLab/OpenRelativity](https://github.com/MITGameLab/OpenRelativity)
+* free, Unity, code on GitHub: [github.com/MITGameLab/OpenRelativity](https://github.com/MITGameLab/OpenRelativity)
 
 #### Chromatron
 
@@ -50,56 +47,42 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * geometric optics
 * puzzle
 * warning: a few elements are unreal (most are real, though)
-* platforms: MacOS, Windows
-* license: proprietary
 
 #### Kerbal Space Program
 
 * [kerbalspaceprogram.com](https://kerbalspaceprogram.com)
 * Newtonian physics, space program
 * strategy
-* platforms: GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### Delta V
 * [deltav.corpsmoderne.net](http://deltav.corpsmoderne.net/)
 * Newtonian physics, orbital mechanics
 * simulation
-* platform: web-based
-* license: proprietary
+* free, on web
 
 #### Bond Breaker
 
 * [testtubegames.com/bondbreaker.html](http://testtubegames.com/bondbreaker.html)
 * electrostatics, chemistry
 * 2d puzzle/action
-* platforms: web, Android, iOS
-* license: proprietary
 
 #### Meqanic
 
 * [www.meqanic.com/app](http://www.meqanic.com/app/)
 * quantum computation and quantum information
 * puzzle / blocks
-* platforms: web, iOS
-* license: proprietary
 
 #### Relativity Wars
 
 * [www.fungameco.com/relativity-wars.php](http://www.fungameco.com/relativity-wars.php)
 * space arcade / RTS
 * some parts of relativity
-* platforms: Android, iOS, MacOS, Windows
-* license: proprietary
 
 #### Quantum Game with Photons
 
 * [quantumgame.io](http://quantumgame.io)
 * quantum mechanics, quantum optics
 * puzzle / board / simulator
-* platform: web-based
-* price: free of charge
-* license: MIT
 * source: [github.com/stared/quantum-game](https://github.com/stared/quantum-game)
 * blog post: [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html)
 
@@ -109,16 +92,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * adiabatic processes for quantum states
 * puzzle / action
 * citizen science
-* platforms: Quantum Moves: GNU/Linux, MacOS, Windows, Android, iOS; Quantum Minds: MacOS, Windows
-* license: proprietary
 
 #### The Electric Shocktopus
 
 * [testtubegames.com/shocktopus.html](http://testtubegames.com/shocktopus.html)
 * electromagnetism
 * platformer
-* platforms: web, GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### High Frontier
 
@@ -126,16 +105,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * models space mission logistics
 * living game board and rules incorporate actual data as it is discovered
 * realistic resource usage and phyisics modeling
-* platform: board game
-* license: proprietary
 
 #### Osmos
 
 * [www.osmos-game.com](http://www.osmos-game.com/)
 * gravity and conservation of momentum
 * puzzle / action / strategy
-* platforms: GNU/Linux, MacOS, Windows, Android, iOS
-* license: proprietary
 
 ### Chemistry
 
@@ -143,15 +118,11 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 * [boardgamegeek.com/boardgame/184663/covalence-molecule-building-game](https://boardgamegeek.com/boardgame/184663/covalence-molecule-building-game)
 * molecules
-* platform: board game
-* license: proprietary
 
 #### Ion
 
 * [boardgamegeek.com/boardgame/174611/ion-compound-building-game](https://boardgamegeek.com/boardgame/174611/ion-compound-building-game)
 * compounds
-* platform: board game
-* license: proprietary
 
 ### Biology
 
@@ -159,29 +130,21 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 * [boardgamegeek.com/boardgame/202977/cytosis-cell-biology-game](https://boardgamegeek.com/boardgame/202977/cytosis-cell-biology-game)
 * cell biology
-* platform: board game
-* license: proprietary
 
 #### Linkage
 
 * [boardgamegeek.com/boardgame/157586/linkage-dna-card-game](https://boardgamegeek.com/boardgame/157586/linkage-dna-card-game)
 * molecular genetics
-* platform: board game
-* license: proprietary
 
 #### Peptide
 
 * [boardgamegeek.com/boardgame/166298/peptide-protein-building-game](https://boardgamegeek.com/boardgame/166298/peptide-protein-building-game)
 * proteins
-* platform: board game
-* license: proprietary
 
 #### Virulence
 
 * [boardgamegeek.com/boardgame/202207/virulence-infectious-card-game](https://boardgamegeek.com/boardgame/202207/virulence-infectious-card-game)
 * viruses
-* platform: board game
-* license: proprietary
 
 #### 
 
@@ -190,8 +153,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [www.kongregate.com/games/cellcraft/cellcraft](http://www.kongregate.com/games/cellcraft/cellcraft)
 * cell biology
 * real-time strategy
-* platform: web-based Flash
-* license: proprietary
+* Flash
 
 #### Meta!Blast
 
@@ -199,8 +161,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * plant and cell biology
 * flight simulator
 * nice descriptions of encountered elements
-* platforms: MacOS, Windows
-* license: proprietary (but has [Git repository](https://github.com/SubstrateGames/Metablast-Commercial))
 
 #### Foldit
 
@@ -208,23 +168,19 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * protein conformation
 * 3d puzzle
 * citizen science
-* platform: GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### Evolution: the origin of species
 
 * [boardgamegeek.com/boardgame/71021/evolution-origin-species](https://boardgamegeek.com/boardgame/71021/evolution-origin-species)
 * evolution
-* platform: card game
-* license: proprietary
+* card game
 
 #### Digestix
 
 * [learning.alimentarium.ch/en/games](https://learning.alimentarium.ch/en/games)
 * digestion
 * tower defense
-* platforms: Android, iOS (soon on web)
-* license: proprietary
+* Android, iOS (soon on web)
 
 #### Bios: Genesis
 
@@ -232,8 +188,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * players start as organic compounds shortly after Earth's formation
 * create autocatalytic life and darwinian life
 * Players can play cooperative, competitive, or solitaire.
-* platform: board game
-* license: proprietary
 
 ### Computer science
 
@@ -242,30 +196,17 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [turing-game.pl](http://turing-game.pl/)
 * Turing tape, programming
 * puzzle
-* platform: web
-* license: proprietary
 
 #### Spacechem
 
 * [http://www.spacechemthegame.com](http://www.spacechemthegame.com/)
 * algorithms
 * puzzle
-* platforms: Android, GNU/Linux, Windows
-* license: proprietary
-
-#### Code Master - The Ultimate Coding Board Game
-
-* [http://www.thinkfun.com/products/code-master/](http://www.thinkfun.com/products/code-master/)
-* algorithms, programming
-* platform: board game
-* license: proprietary
 
 #### Colobot
 
 * [www.ceebot.com/colobot/index-e.php](http://www.ceebot.com/colobot/index-e.php)
 * programming multiple, possibly interacting, robots
-* platforms: GNU/Linux, MacOS, Windows
-* license: GNU GPLv3+
 
 #### TIS-100
 
@@ -273,8 +214,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * programming
 * multiple very constrained CPUs + communication
 * SpaceChem-style optimization
-* platforms: GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### Shenzhen I/O
 
@@ -284,8 +223,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * author of other games: http://www.zachtronics.com/ including SpaceChem
 * see also: [Lessons Learned from Shenzhen I/O
 ](https://probablydance.com/2016/11/07/lessons-learned-from-shenzhen-io/)
-* platforms: GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### Robozzle
 
@@ -293,8 +230,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * algorithms
 * puzzle
 * user-generated content
-* platforms: web, Android, iOS, Windows Phone
-* license: part proprietary, part Ms-PL (code at [http://robozzle.codeplex.com/](http://robozzle.codeplex.com/))
 
 #### Human Resource Machine
 
@@ -302,17 +237,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * programming
 * puzzle
 * automation and optimization
-* from the designers of Little Inferno and World of Goo
-* platforms: GNU/Linux, MacOS, Windows, Android, iOS, Wii U
-* license: proprietary
+* from the designers of Little Inferno and World of Goo 
 
 #### Hour of Code
 
 * [https://code.org/learn](https://code.org/learn)
 * many puzzle games about programming and algorithms
 * some famous licences (e.g., Minecraft, Disney)
-* platform: web
-* license: [mixed (some proprietary)](https://code.org/tos), web backend under Apache 2.0 ([https://github.com/code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org))
 
 #### Decodoku
 
@@ -320,26 +251,25 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * quantum computation
 * quantum error correction
 * citizen science
-* platforms: Web / Mac / Windows / Android / iPhone
-* license: MIT (repository: [https://github.com/decodoku](https://github.com/decodoku))
+* Web / Mac / Windows / Android / iPhone
 * see also: [Decodoku in 2017](https://medium.com/@decodoku/decodoku-in-2017-e68e63a6d09c)
 
 #### Cube Composer
 
 * [Cube Composer](http://david-peter.de/cube-composer/)
 * A puzzle game which is inspired by functional programming methods
-* platform: web
-* license: MIT (repository: [https://github.com/sharkdp/cube-composer](https://github.com/sharkdp/cube-composer))
+
 
 #### Untrusted —or— the Continuing Adventures of Dr. Eval
 
 * [Play online](http://alexnisnevich.github.io/untrusted/)
+* [Github](https://github.com/AlexNisnevich/untrusted)
 * programming
 * roguelike,puzzle
-* platform: web, Javascript
+* web, Javascript
 * Meta-JavaScript Adventure Game wherein you guide the dashing, steadfast Dr. Eval through a mysterious MACHINE CONTINUUM, wherein, using only his trusty computer and the TURING-COMPLETE power of JavaScript, he must literally ALTER HIS REALITY in order to find his freedom!
 * The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
-* license: dual licensed proprietary and CC BY-NC-SA 3.0 (repository: [https://github.com/AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted))
+
 
 #### Factorio
 
@@ -347,8 +277,8 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * simulation building
 * collect resources and design factories
 * automate all aspects of factory production
-* platforms: Windows / Mac / Linux
-* license: proprietary
+* Windows / Mac / Linux
+
 
 #### Infinifactory
 
@@ -357,8 +287,8 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * algorithms
 * optimization
 * Like a cross between SpaceChem and Factorio
-* platforms: Windows / Mac / Linux
-* license: proprietary
+* Windows / Mac / Linux
+
 
 ### Health
 
@@ -367,16 +297,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [www.life-saver.org.uk](https://www.life-saver.org.uk/)
 * cardiopulmonary resuscitation (CPR)
 * interactive video story, fast-paced
-* platform: web Flash
-* license: proprietary
 
 #### Depression Quest
 
 * [www.depressionquest.com](http://www.depressionquest.com/)
 * living with depression (for ones who have never experienced it)
 * text-based game
-* platforms: web, GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### Vax!
 
@@ -385,6 +311,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * vaccination
 * network science
 
+
 ### Mathematics
 
 #### SET
@@ -392,7 +319,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [www.setgame.com](http://www.setgame.com/)
 * addition in finite field (`Z_3^4`)
 * real-time card game
-* platform: card game
 * [Set (game) - Wikipedia](https://en.wikipedia.org/wiki/Set_%28game%29) and [Which popular games are the most mathematical? - MathOverflow](https://mathoverflow.net/a/13645)
 
 #### A game of numbers
@@ -402,45 +328,33 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
   * [Ludum Dare - an almost success story](http://www.ludumdare.com/compo/2013/08/02/an-almost-success-story/)
 * arithmetics
 * puzzle/maze
-* platforms: GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### HyperRogue
 
 * [www.roguetemple.com/z/hyper/](http://www.roguetemple.com/z/hyper/)
 * geometry of hyperbolic plane
 * a rogue-like game
-* platforms: GNU/Linux, MacOS, Windows, Android, iOS, Pandora
-* license: GNU GPLv2 (repository: [https://github.com/zenorogue/hyperrogue](https://github.com/zenorogue/hyperrogue)), partly proprietary on Android and iOS
 
 #### HydraSlayer
 
 * [www.roguetemple.com/z/hydra/](http://www.roguetemple.com/z/hydra/)
 * arithmetics, a bit of number theory
 * a rogue-like game
-* platforms: GNU/Linux, MacOS, Windows, Android
-* license: version 17 and Android version GNU GPLv2 (code on homepage); version 18 appears to be proprietary
 
 #### Mathbreakers
 
 * [www.mathbreakers.com](https://www.mathbreakers.com/)
 * arithmetics
 * 3d adventure game
-* platforms: GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### Euclid the Game
 
 * [euclidthegame.com](http://euclidthegame.com/)
 * planar geometry
-* platform: web (link above looks dead, though), iOS
-* license: MIT (repository: [https://github.com/euclidthegame/euclidthegame.iOS](https://github.com/euclidthegame/euclidthegame.iOS))
 
 #### Euclidea
 * [euclidea](https://www.euclidea.xyz/)
 * planar geometry
-* platforms: web, Android, iOS
-* license: proprietary
 
 #### Refractions
 
@@ -449,16 +363,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * fractions
 * puzzle
 * paper on optimizing: http://grail.cs.washington.edu/projects/ordering/
-* platforms: web, iOS
-* license: proprietary
 
 #### Havel-Hakimi
 
 * [jacquerie.github.io/hh/](http://jacquerie.github.io/hh/)
 * graph theory
 * puzzle
-* platform: web
-* license: MIT (repository: [https://github.com/jacquerie/hh](https://github.com/jacquerie/hh))
 
 ### Sociology and economy
 
@@ -467,24 +377,19 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [www.peacemakergame.com](http://www.peacemakergame.com/)
 * Israel-Palestine peace process (unfortunately outdated and too optimistic)
 * strategy
-* platforms: Android, iOS, Kindle Fire, MacOS, Windows
-* license: proprietary
 
 #### Democracy 3
 
 * [www.positech.co.uk/democracy3](http://www.positech.co.uk/democracy3/)
 * democracy, ruling country
 * turn-based economical strategy
-* platforms: GNU/Linux, MacOS, Windows
-* license: proprietary
 
 #### Parable of the Polygons
 
 * [ncase.me/polygons](http://ncase.me/polygons/)
 * social diversity, racial segregation (and phase transitions)
 * agent-based simulation
-* platform: web
-* license: CC0 (repository: [https://github.com/ncase/polygons](https://github.com/ncase/polygons))
+
 
 ### Humanities
 
@@ -493,8 +398,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [gregkarber.com/philo](http://gregkarber.com/philo/)
 * simple 2d platformers (puzzle, not - action)
 * philosophical concepts, fallacies
-* platform: web
-* license: CC BY-NC-SA 4.0
+
 
 ### Bonus
 
@@ -503,19 +407,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [sjbyrnes.com/1235](http://sjbyrnes.com/1235/)
 * electric circuits
 * 'hydrodynamical' simulation
-* platform: web
-* license: appears to be proprietary
 
 #### (side note) Vim shortcuts gamified
 
 If it is possible to gamify such seemingly boring things as learning keyboard shortcuts, then the sky's the limit!
 
 * [vim-adventures.com](http://vim-adventures.com/)
-    * platform: web
-    * license: proprietary
 * [www.vimsnake.com](http://www.vimsnake.com/)
-    * platform: web
-    * license: proprietary (but there is a repository: [https://github.com/patmood/vim_snake](https://github.com/patmood/vim_snake))
+
 
 ## Meta
 
@@ -532,7 +431,6 @@ Remember to include:
 * type of game `first-person shooter`
 * (optional) technology or system, e.g. `Android, iOS, web`
 * (optional) link to additional materials (e.g. repo, some interesting blog post about this game)
-* license (e.g. GNU GPLv3, MIT, CC BY, etc. or proprietary?)
 
 A game needs to fit this category and it needs to have science-based mechanics (not only theme!) as its major part as:
 
@@ -540,6 +438,7 @@ A game needs to fit this category and it needs to have science-based mechanics (
 
 Also, for games from typical genres, the bar is much higher. It is not enough that "you learn about ancient warfare" or "you explore outer space".
 As a rule of thumb, mainstream games don't fit here (with the exception of Kerbal Space Program).
+
 
 #### Form
 
