@@ -24,7 +24,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
   * contraction, time dilation, Doppler shift
 * 2D arcade / puzzle
 * platform: on web (Flash)
-* price: free of charge
 * license: proprietary
 
 #### Agent Higgs
@@ -43,7 +42,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
   * Doppler shift, geometric distortions
 * 3D first person perspective walking
 * platforms: Unity-based on GNU/Linux, MacOS, Windows
-* price: free of charge
 * license: MIT, code on GitHub: [github.com/MITGameLab/OpenRelativity](https://github.com/MITGameLab/OpenRelativity)
 
 #### Chromatron
@@ -53,7 +51,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * warning: a few elements are unreal (most are real, though)
 * platforms: MacOS, Windows
-* price: free of charge
 * license: proprietary
 
 #### Kerbal Space Program
@@ -62,7 +59,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Newtonian physics, space program
 * strategy
 * platforms: GNU/Linux, MacOS, Windows
-* price: USD $39.99
 * license: proprietary
 
 #### Delta V
@@ -70,7 +66,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Newtonian physics, orbital mechanics
 * simulation
 * platform: web-based
-* price: free of charge
 * license: proprietary
 
 #### Bond Breaker
@@ -79,7 +74,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * electrostatics, chemistry
 * 2d puzzle/action
 * platforms: web, Android, iOS
-* price: free of charge
 * license: proprietary
 
 #### Meqanic
@@ -88,7 +82,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * quantum computation and quantum information
 * puzzle / blocks
 * platforms: web, iOS
-* price: free of charge on web
 * license: proprietary
 
 #### Relativity Wars
@@ -97,7 +90,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * space arcade / RTS
 * some parts of relativity
 * platforms: Android, iOS, MacOS, Windows
-* price: USD $5.99 on Steam
 * license: proprietary
 
 #### Quantum Game with Photons
@@ -118,7 +110,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle / action
 * citizen science
 * platforms: Quantum Moves: GNU/Linux, MacOS, Windows, Android, iOS; Quantum Minds: MacOS, Windows
-* price: free of charge
 * license: proprietary
 
 #### The Electric Shocktopus
@@ -127,7 +118,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * electromagnetism
 * platformer
 * platforms: web, GNU/Linux, MacOS, Windows
-* price: free of charge on web, USD $5.99 on Steam
 * license: proprietary
 
 #### High Frontier
@@ -145,7 +135,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * gravity and conservation of momentum
 * puzzle / action / strategy
 * platforms: GNU/Linux, MacOS, Windows, Android, iOS
-* price: USD $10.00
 * license: proprietary
 
 ### Chemistry
@@ -202,7 +191,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * cell biology
 * real-time strategy
 * platform: web-based Flash
-* price: free of charge
 * license: proprietary
 
 #### Meta!Blast
@@ -212,7 +200,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * flight simulator
 * nice descriptions of encountered elements
 * platforms: MacOS, Windows
-* price: free of charge
 * license: proprietary (but has [Git repository](https://github.com/SubstrateGames/Metablast-Commercial))
 
 #### Foldit
@@ -222,7 +209,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * 3d puzzle
 * citizen science
 * platform: GNU/Linux, MacOS, Windows
-* price: free of charge
 * license: proprietary
 
 #### Evolution: the origin of species
@@ -230,7 +216,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [boardgamegeek.com/boardgame/71021/evolution-origin-species](https://boardgamegeek.com/boardgame/71021/evolution-origin-species)
 * evolution
 * platform: card game
-* price: USD $23.99
 * license: proprietary
 
 #### Digestix
@@ -239,7 +224,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * digestion
 * tower defense
 * platforms: Android, iOS (soon on web)
-* price: free of charge
 * license: proprietary
 
 #### Bios: Genesis
@@ -249,7 +233,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * create autocatalytic life and darwinian life
 * Players can play cooperative, competitive, or solitaire.
 * platform: board game
-* price: €32.00
 * license: proprietary
 
 ### Computer science
@@ -260,7 +243,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Turing tape, programming
 * puzzle
 * platform: web
-* price: free of charge
 * license: proprietary
 
 #### Spacechem
@@ -269,7 +251,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * algorithms
 * puzzle
 * platforms: Android, GNU/Linux, Windows
-* price: USD $9.99 on Steam
 * license: proprietary
 
 #### Code Master - The Ultimate Coding Board Game
@@ -277,7 +258,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [http://www.thinkfun.com/products/code-master/](http://www.thinkfun.com/products/code-master/)
 * algorithms, programming
 * platform: board game
-* price: USD $19.99
 * license: proprietary
 
 #### Colobot
@@ -285,7 +265,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [www.ceebot.com/colobot/index-e.php](http://www.ceebot.com/colobot/index-e.php)
 * programming multiple, possibly interacting, robots
 * platforms: GNU/Linux, MacOS, Windows
-* price: free of charge
 * license: GNU GPLv3+
 
 #### TIS-100
@@ -295,7 +274,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * multiple very constrained CPUs + communication
 * SpaceChem-style optimization
 * platforms: GNU/Linux, MacOS, Windows
-* price: USD 6.99
 * license: proprietary
 
 #### Shenzhen I/O
@@ -307,7 +285,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * see also: [Lessons Learned from Shenzhen I/O
 ](https://probablydance.com/2016/11/07/lessons-learned-from-shenzhen-io/)
 * platforms: GNU/Linux, MacOS, Windows
-* price: USD 14.99
 * license: proprietary
 
 #### Robozzle
@@ -317,7 +294,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * user-generated content
 * platforms: web, Android, iOS, Windows Phone
-* price: free of charge
 * license: part proprietary, part Ms-PL (code at [http://robozzle.codeplex.com/](http://robozzle.codeplex.com/))
 
 #### Human Resource Machine
@@ -328,7 +304,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * automation and optimization
 * from the designers of Little Inferno and World of Goo
 * platforms: GNU/Linux, MacOS, Windows, Android, iOS, Wii U
-* price: USD $9.99 on Steam
 * license: proprietary
 
 #### Hour of Code
@@ -337,7 +312,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * many puzzle games about programming and algorithms
 * some famous licences (e.g., Minecraft, Disney)
 * platform: web
-* price: free of charge
 * license: [mixed (some proprietary)](https://code.org/tos), web backend under Apache 2.0 ([https://github.com/code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org))
 
 #### Decodoku
@@ -347,7 +321,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * quantum error correction
 * citizen science
 * platforms: Web / Mac / Windows / Android / iPhone
-* price: free of charge
 * license: MIT (repository: [https://github.com/decodoku](https://github.com/decodoku))
 * see also: [Decodoku in 2017](https://medium.com/@decodoku/decodoku-in-2017-e68e63a6d09c)
 
@@ -356,7 +329,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [Cube Composer](http://david-peter.de/cube-composer/)
 * A puzzle game which is inspired by functional programming methods
 * platform: web
-* price: free of charge
 * license: MIT (repository: [https://github.com/sharkdp/cube-composer](https://github.com/sharkdp/cube-composer))
 
 #### Untrusted —or— the Continuing Adventures of Dr. Eval
@@ -367,7 +339,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * platform: web, Javascript
 * Meta-JavaScript Adventure Game wherein you guide the dashing, steadfast Dr. Eval through a mysterious MACHINE CONTINUUM, wherein, using only his trusty computer and the TURING-COMPLETE power of JavaScript, he must literally ALTER HIS REALITY in order to find his freedom!
 * The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
-* price: free of charge
 * license: dual licensed proprietary and CC BY-NC-SA 3.0 (repository: [https://github.com/AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted))
 
 #### Factorio
@@ -377,7 +348,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * collect resources and design factories
 * automate all aspects of factory production
 * platforms: Windows / Mac / Linux
-* price: USD $20.00
 * license: proprietary
 
 #### Infinifactory
@@ -388,7 +358,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * optimization
 * Like a cross between SpaceChem and Factorio
 * platforms: Windows / Mac / Linux
-* price: USD $24.99
 * license: proprietary
 
 ### Health
@@ -399,7 +368,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * cardiopulmonary resuscitation (CPR)
 * interactive video story, fast-paced
 * platform: web Flash
-* price: free of charge
 * license: proprietary
 
 #### Depression Quest
@@ -408,8 +376,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * living with depression (for ones who have never experienced it)
 * text-based game
 * platforms: web, GNU/Linux, MacOS, Windows
-* price: free of charge or pay-what-you-want
 * license: proprietary
+
+#### Vax!
+
+* [http://vax.herokuapp.com](http://vax.herokuapp.com/)
+* epidemic prevention
+* vaccination
+* network science
 
 ### Mathematics
 
@@ -429,7 +403,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * arithmetics
 * puzzle/maze
 * platforms: GNU/Linux, MacOS, Windows
-* price: USD $5.00
 * license: proprietary
 
 #### HyperRogue
@@ -438,7 +411,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * geometry of hyperbolic plane
 * a rogue-like game
 * platforms: GNU/Linux, MacOS, Windows, Android, iOS, Pandora
-* price: pay-what-you-want on [Itch.io](https://zenorogue.itch.io/hyperrogue)
 * license: GNU GPLv2 (repository: [https://github.com/zenorogue/hyperrogue](https://github.com/zenorogue/hyperrogue)), partly proprietary on Android and iOS
 
 #### HydraSlayer
@@ -447,7 +419,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * arithmetics, a bit of number theory
 * a rogue-like game
 * platforms: GNU/Linux, MacOS, Windows, Android
-* price: pay-what-you-want on [Itch.io](https://zenorogue.itch.io/hydra-slayer)
 * license: version 17 and Android version GNU GPLv2 (code on homepage); version 18 appears to be proprietary
 
 #### Mathbreakers
@@ -456,7 +427,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * arithmetics
 * 3d adventure game
 * platforms: GNU/Linux, MacOS, Windows
-* price: free demo, full version USD $25.00
 * license: proprietary
 
 #### Euclid the Game
@@ -470,7 +440,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [euclidea](https://www.euclidea.xyz/)
 * planar geometry
 * platforms: web, Android, iOS
-* price: free of charge
 * license: proprietary
 
 #### Refractions
@@ -481,7 +450,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * paper on optimizing: http://grail.cs.washington.edu/projects/ordering/
 * platforms: web, iOS
-* price: free of charge
 * license: proprietary
 
 #### Havel-Hakimi
@@ -490,7 +458,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * graph theory
 * puzzle
 * platform: web
-* price: free of charge
 * license: MIT (repository: [https://github.com/jacquerie/hh](https://github.com/jacquerie/hh))
 
 ### Sociology and economy
@@ -501,7 +468,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Israel-Palestine peace process (unfortunately outdated and too optimistic)
 * strategy
 * platforms: Android, iOS, Kindle Fire, MacOS, Windows
-* price: USD $1.99+
 * license: proprietary
 
 #### Democracy 3
@@ -510,7 +476,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * democracy, ruling country
 * turn-based economical strategy
 * platforms: GNU/Linux, MacOS, Windows
-* price: USD $24.95
 * license: proprietary
 
 #### Parable of the Polygons
@@ -519,7 +484,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * social diversity, racial segregation (and phase transitions)
 * agent-based simulation
 * platform: web
-* price: free of charge
 * license: CC0 (repository: [https://github.com/ncase/polygons](https://github.com/ncase/polygons))
 
 ### Humanities
@@ -530,7 +494,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * simple 2d platformers (puzzle, not - action)
 * philosophical concepts, fallacies
 * platform: web
-* price: free of charge
 * license: CC BY-NC-SA 4.0
 
 ### Bonus
@@ -541,7 +504,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * electric circuits
 * 'hydrodynamical' simulation
 * platform: web
-* price: free of charge
 * license: appears to be proprietary
 
 #### (side note) Vim shortcuts gamified
@@ -550,11 +512,9 @@ If it is possible to gamify such seemingly boring things as learning keyboard sh
 
 * [vim-adventures.com](http://vim-adventures.com/)
     * platform: web
-    * price: free of charge
     * license: proprietary
 * [www.vimsnake.com](http://www.vimsnake.com/)
     * platform: web
-    * price: free of charge
     * license: proprietary (but there is a repository: [https://github.com/patmood/vim_snake](https://github.com/patmood/vim_snake))
 
 ## Meta
