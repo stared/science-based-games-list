@@ -399,6 +399,11 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * simple 2d platformers (puzzle, not - action)
 * philosophical concepts, fallacies
 
+#### Socrates Jones: Pro Philosopher
+* [Play online on Kongregate](http://www.kongregate.com/games/chiefwakamakamu/socrates-jones-pro-philosopher) or [Newsgrounds](http://www.newgrounds.com/portal/view/625356)
+* visual novel based on Ace Attorney series
+* different concepts of ethics
+
 
 ### Bonus
 
