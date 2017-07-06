@@ -311,6 +311,11 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * vaccination
 * network science
 
+#### Healthy Habits
+
+* [healthyhabits.app](https://play.google.com/store/apps/details?id=com.healthylabs.android.healthyhabits)
+* medical prevention
+* game combining real-life actions with digital rewards and score
 
 ### Mathematics
 
