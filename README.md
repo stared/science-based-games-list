@@ -417,6 +417,15 @@ Again, what is crucial - it's not about only about theme, but game mechanics ali
 * Microsoft Windows, OS X, Linux, iOS, Android, PlayStation 4, Xbox One
 * Steam ($)
 
+#### SOMA
+
+* [somagame.com](http://somagame.com/)
+* existentialism, transhumanism, mind-uploading
+* survival first-person perspective
+* PlayStation 4, Windows, OS X, Linux
+* Steam ($)
+* (this one even more subjective, just one allowing to *feel* some *philosophical* problems)
+
 
 ### Bonus
 
