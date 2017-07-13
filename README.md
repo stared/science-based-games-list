@@ -146,7 +146,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [boardgamegeek.com/boardgame/202207/virulence-infectious-card-game](https://boardgamegeek.com/boardgame/202207/virulence-infectious-card-game)
 * viruses
 
-####
 
 #### Cellcraft
 
@@ -272,7 +271,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Factorio
 
-* [https://factorio.com](https://www.factorio.com/)
+* [factorio.com](https://www.factorio.com/)
 * simulation building
 * collect resources and design factories
 * automate all aspects of factory production
@@ -296,15 +295,9 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * cardiopulmonary resuscitation (CPR)
 * interactive video story, fast-paced
 
-#### Depression Quest
-
-* [www.depressionquest.com](http://www.depressionquest.com/)
-* living with depression (for ones who have never experienced it)
-* text-based game
-
 #### Vax!
 
-* [http://vax.herokuapp.com](http://vax.herokuapp.com/)
+* [vax.herokuapp.com](http://vax.herokuapp.com/)
 * epidemic prevention
 * vaccination
 * network science
@@ -401,6 +394,28 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [Play online on Kongregate](http://www.kongregate.com/games/chiefwakamakamu/socrates-jones-pro-philosopher) or [Newsgrounds](http://www.newgrounds.com/portal/view/625356)
 * visual novel based on Ace Attorney series
 * different concepts of ethics
+
+
+### Life experience games
+
+There are a few games that *feel* somewhat related (even if not that much science-based).
+I (@stared) considered putting them in psychology/sociology, but it turned out to be a controversial issue.
+Again, what is crucial - it's not about only about theme, but game mechanics aligned with experiencing a difficult life siutation.
+
+#### Depression Quest
+
+* [www.depressionquest.com](http://www.depressionquest.com/)
+* living with depression
+* text-based game (with choices based on energy/motivation - even though other options are visible)
+* web (free), Steam ($)
+
+#### This War of Mine
+
+* [store.steampowered.com/app/282070/This_War_of_Mine/](http://store.steampowered.com/app/282070/This_War_of_Mine/),  [en.wikipedia.org/wiki/This_War_of_Mine](https://en.wikipedia.org/wiki/This_War_of_Mine)
+* horrors of being a civilian in a besieged city
+* survival RPG
+* Microsoft Windows, OS X, Linux, iOS, Android, PlayStation 4, Xbox One
+* Steam ($)
 
 
 ### Bonus
