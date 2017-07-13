@@ -1,0 +1,21 @@
+# in progress
+# to be filled at some point
+Velocity Raptor:
+  url: http://www.testtubegames.com/velocityraptor.html
+  genre: [arcade, puzzle]
+  topics: [physics, special relativity theory]
+  topics-misc: [relativistic contraction, time dilation, Doppler shift]
+  platform: [web]
+  technology: [Flash]
+  license: proprietary
+  year: 2012
+A slower speed of light:
+  url: http://gamelab.mit.edu/games/a-slower-speed-of-light/
+  genre: [first person perspective, 3d]
+  topics: [physics, special relativity theory]
+  topics-misc: [Doppler shift, geometric distortions]
+  platform: [Windows, OSX, Linux]
+  technology: [Unity3D]
+  license: MIT
+  repo: https://github.com/MITGameLab/OpenRelativity
+  year: 2012
