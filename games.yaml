@@ -1,6 +1,7 @@
 # in progress
 # to be filled at some point
 Velocity Raptor:
+  short-description: Velocity Raptor must travel near the speed of light to save the world!
   url: http://www.testtubegames.com/velocityraptor.html
   genre: [arcade, puzzle]
   topics: [physics, special relativity theory]
@@ -8,14 +9,21 @@ Velocity Raptor:
   platform: [web]
   technology: [Flash]
   license: proprietary
+  author:
+    name: TestTubeGames
+    url: http://testtubegames.com/
   year: 2012
 A slower speed of light:
+  short-description: The effects of special relativity by gradually slowing down the speed of light to a walking pace.
   url: http://gamelab.mit.edu/games/a-slower-speed-of-light/
-  genre: [first person perspective, 3d]
+  genre: [first-person, 3d]
   topics: [physics, special relativity theory]
   topics-misc: [Doppler shift, geometric distortions]
   platform: [Windows, OSX, Linux]
   technology: [Unity3D]
   license: MIT
   repo: https://github.com/MITGameLab/OpenRelativity
+  author:
+    name: MIT Game Lab
+    url: http://gamelab.mit.edu/
   year: 2012
