@@ -146,7 +146,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [boardgamegeek.com/boardgame/202207/virulence-infectious-card-game](https://boardgamegeek.com/boardgame/202207/virulence-infectious-card-game)
 * viruses
 
-#### 
+####
 
 #### Cellcraft
 
@@ -237,7 +237,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * programming
 * puzzle
 * automation and optimization
-* from the designers of Little Inferno and World of Goo 
+* from the designers of Little Inferno and World of Goo
 
 #### Hour of Code
 
@@ -256,19 +256,18 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Cube Composer
 
-* [Cube Composer](http://david-peter.de/cube-composer/)
-* A puzzle game which is inspired by functional programming methods
+* [david-peter.de/cube-composer/](http://david-peter.de/cube-composer/)
+* Functional programming
+* puzzle games
 
 
 #### Untrusted —or— the Continuing Adventures of Dr. Eval
 
-* [Play online](http://alexnisnevich.github.io/untrusted/)
-* [Github](https://github.com/AlexNisnevich/untrusted)
-* programming
-* roguelike,puzzle
-* web, Javascript
-* Meta-JavaScript Adventure Game wherein you guide the dashing, steadfast Dr. Eval through a mysterious MACHINE CONTINUUM, wherein, using only his trusty computer and the TURING-COMPLETE power of JavaScript, he must literally ALTER HIS REALITY in order to find his freedom!
-* The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
+* [alexnisnevich.github.io/untrusted/](http://alexnisnevich.github.io/untrusted/)
+* programming in JavaScript
+* roguelike, puzzle
+* web (JavaScript)
+* repo: [github.com/AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted)
 
 
 #### Factorio
@@ -282,10 +281,9 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Infinifactory
 
-* [Infinifactory](http://www.zachtronics.com/infinifactory/)
+* [www.zachtronics.com/infinifactory/](http://www.zachtronics.com/infinifactory/)
+* algorithms, optimization
 * puzzle
-* algorithms
-* optimization
 * Like a cross between SpaceChem and Factorio
 * Windows / Mac / Linux
 
