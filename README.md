@@ -166,7 +166,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * viruses
 * board game ($)
 
-#### 
 
 #### Cellcraft
 
@@ -295,25 +294,23 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Cube Composer
 
-* [Cube Composer](http://david-peter.de/cube-composer/)
-* A puzzle game which is inspired by functional programming methods
+* [david-peter.de/cube-composer/](http://david-peter.de/cube-composer/)
+* functional programming
+* puzzle games
 * web-based (free of charge)
 * MIT license: [https://github.com/sharkdp/cube-composer](https://github.com/sharkdp/cube-composer)
 
 #### Untrusted —or— the Continuing Adventures of Dr. Eval
 
-* [Play online](http://alexnisnevich.github.io/untrusted/)
-* [Github](https://github.com/AlexNisnevich/untrusted)
-* programming
-* roguelike,puzzle
+* [alexnisnevich.github.io/untrusted/](http://alexnisnevich.github.io/untrusted/)
+* programming in JavaScript
+* roguelike, puzzle
 * web, Javascript (free of charge)
-* Meta-JavaScript Adventure Game wherein you guide the dashing, steadfast Dr. Eval through a mysterious MACHINE CONTINUUM, wherein, using only his trusty computer and the TURING-COMPLETE power of JavaScript, he must literally ALTER HIS REALITY in order to find his freedom!
-* The game presents you with a roguelike-like playing environment and a console window with the JavaScript code generating each level. As loaded, each level is unbeatable, and most of the JavaScript is blocked from editing. The challenge is to open a path to the next level using only the limited tools left open to you.
-* dual licensed proprietary and CC BY-NC-SA 3.0:: [https://github.com/AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted)
+* dual licensed proprietary and CC BY-NC-SA 3.0: [https://github.com/AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted)
 
 #### Factorio
 
-* [https://factorio.com](https://www.factorio.com/)
+* [factorio.com](https://www.factorio.com/)
 * simulation building
 * collect resources and design factories
 * automate all aspects of factory production
@@ -321,10 +318,9 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Infinifactory
 
-* [Infinifactory](http://www.zachtronics.com/infinifactory/)
+* [www.zachtronics.com/infinifactory/](http://www.zachtronics.com/infinifactory/)
+* algorithms, optimization
 * puzzle
-* algorithms
-* optimization
 * Like a cross between SpaceChem and Factorio
 * Windows ($), Mac ($), GNU/Linux ($)
 
@@ -337,12 +333,10 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * interactive video story, fast-paced
 * web-based (Flash) (free of charge)
 
-#### Depression Quest
+#### Vax!
 
-* [www.depressionquest.com](http://www.depressionquest.com/)
-* living with depression (for ones who have never experienced it)
-* text-based game
-* web, GNU/Linux, MacOS, Windows (free of charge or pay-what-you-want)
+* [vax.herokuapp.com](http://vax.herokuapp.com/)
+* epidemic prevention, vaccination, network science
 
 ### Mathematics
 
@@ -447,6 +441,43 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * philosophical concepts, fallacies
 * web (free of charge)
 * CC BY-NC-SA 4.0 license
+
+#### Socrates Jones: Pro Philosopher
+* [Play online on Kongregate](http://www.kongregate.com/games/chiefwakamakamu/socrates-jones-pro-philosopher) or [Newsgrounds](http://www.newgrounds.com/portal/view/625356)
+* visual novel based on Ace Attorney series
+* different concepts of ethics
+
+
+### Life experience games
+
+There are a few games that *feel* somewhat related (even if not that much science-based).
+I (@stared) considered putting them in psychology/sociology, but it turned out to be a controversial issue.
+Again, what is crucial - it's not about only about theme, but game mechanics aligned with experiencing a difficult life siutation.
+
+#### Depression Quest
+
+* [www.depressionquest.com](http://www.depressionquest.com/)
+* living with depression
+* text-based game (with choices based on energy/motivation - even though other options are visible)
+* web (free), Steam ($)
+
+#### This War of Mine
+
+* [store.steampowered.com/app/282070/This_War_of_Mine/](http://store.steampowered.com/app/282070/This_War_of_Mine/),  [en.wikipedia.org/wiki/This_War_of_Mine](https://en.wikipedia.org/wiki/This_War_of_Mine)
+* horrors of being a civilian in a besieged city
+* survival RPG
+* Microsoft Windows, OS X, Linux, iOS, Android, PlayStation 4, Xbox One
+* Steam ($)
+
+#### SOMA
+
+* [somagame.com](http://somagame.com/)
+* existentialism, transhumanism, mind-uploading
+* survival first-person perspective
+* PlayStation 4, Windows, OS X, Linux
+* Steam ($)
+* (this one even more subjective, just one allowing to *feel* some *philosophical* problems)
+
 
 ### Bonus
 
