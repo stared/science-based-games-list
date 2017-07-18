@@ -176,7 +176,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Meta!Blast
 
-* [metnet-mbl.gdcb.iastate.edu](http://metnet-mbl.gdcb.iastate.edu)
+* [www.metablast.org](http://www.metablast.org/) or [metnet-mbl.gdcb.iastate.edu](http://metnet-mbl.gdcb.iastate.edu)
 * plant and cell biology
 * flight simulator
 * nice descriptions of encountered elements
