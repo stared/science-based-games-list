@@ -263,7 +263,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * user-generated content
 * web, Android, iOS, Windows Phone (free of charge)
-* part proprietary, part Ms-PL license: [http://robozzle.codeplex.com/](http://robozzle.codeplex.com/))
+* part proprietary, part Ms-PL license: [http://robozzle.codeplex.com/](http://robozzle.codeplex.com/)
 
 #### Human Resource Machine
 
@@ -478,8 +478,15 @@ Again, what is crucial - it's not about only about theme, but game mechanics ali
 * Steam ($)
 * (this one even more subjective, just one allowing to *feel* some *philosophical* problems)
 
-
 ### Bonus
+
+#### PhET Interactive Simulations for science and math
+
+* [https://phet.colorado.edu/en/simulations/category/new](https://phet.colorado.edu/en/simulations/category/new)
+* Games and simulations for many science/math subjects
+* Sandbox gameplay
+* Web (HTML5) (free of charge)
+* Mostly GNU GPLv3 and MIT licensed: [https://github.com/phetsims](https://github.com/phetsims), [https://phet.colorado.edu/en/licensing](https://phet.colorado.edu/en/licensing)
 
 #### (prototype) Grounded: Circuits
 
