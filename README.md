@@ -97,11 +97,11 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Quantum Marble Maze
 
-* [tropic.org.uk/~crispin/quantum/] (http://tropic.org.uk/~crispin/quantum/)
+* [tropic.org.uk/~crispin/quantum/](http://tropic.org.uk/~crispin/quantum/)
 * quantum mechanics, continuous wavefunction
 * puzzle / action / simulator
 * Java application (free and open source)
-* GPL based: [LICENSE.txt] (https://github.com/fiftysevendegreesofrad/quantum/blob/master/quantum/LICENSE.txt)
+* GPL based: [LICENSE.txt](https://github.com/fiftysevendegreesofrad/quantum/blob/master/quantum/LICENSE.txt)
 * blog post: [Learning Quantum Mechanics the Easy Way](https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/)
 
 #### Quantum Moves, Quantum Minds
