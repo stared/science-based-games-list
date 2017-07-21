@@ -95,6 +95,15 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * MIT license: [github.com/stared/quantum-game](https://github.com/stared/quantum-game)
 * blog post: [Quantum mechanics for high-school students](http://p.migdal.pl/2016/08/15/quantum-mechanics-for-high-school-students.html)
 
+#### Quantum Marble Maze
+
+* [tropic.org.uk/~crispin/quantum/] (http://tropic.org.uk/~crispin/quantum/)
+* quantum mechanics, continuous wavefunction
+* puzzle / action / simulator
+* Java application (free and open source)
+* GPL based: [LICENSE.txt] (https://github.com/fiftysevendegreesofrad/quantum/blob/master/quantum/LICENSE.txt)
+* blog post: [Learning Quantum Mechanics the Easy Way](https://linkingideasblog.wordpress.com/2016/04/25/learning-quantum-mechanics-the-easy-way/)
+
 #### Quantum Moves, Quantum Minds
 
 * [www.scienceathome.org/games](https:/www.scienceathome.org/games)
