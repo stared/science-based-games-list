@@ -11,8 +11,6 @@ So in general, ones that may make you say *I played X for its own sake, yet I've
 
 This is a collaborative list dedicated to the public domain ([CC0](https://creativecommons.org/share-your-work/public-domain/cc0/)), where everyone is welcomed to contribute! See: [how to contribute](#how-to-contribute). It was started, and is being maintained, by [Piotr Migdał](http://p.migdal.pl/) (the author of [Quantum Game with Photons](http://quantumgame.io/)).
 
-When a game is free ([as in freedom, not price](https://www.gnu.org/philosophy/free-sw.html)), the license and code repository will be stated when possible. Please note that unless otherwise stated, the game is proprietary *or* a license can't be found.
-
 A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology](#biology), [Computer Science](#computer-science), [Health](#health), [Mathematics](#mathematics), [Sociology and economy](#sociology-and-economy), [Humanities](#humanities)
 
 ## Games
@@ -463,11 +461,12 @@ Again, what is crucial - it's not about only about theme, but game mechanics ali
 
 #### This War of Mine
 
-* [store.steampowered.com/app/282070/This_War_of_Mine/](http://store.steampowered.com/app/282070/This_War_of_Mine/),  [en.wikipedia.org/wiki/This_War_of_Mine](https://en.wikipedia.org/wiki/This_War_of_Mine)
+* [store.steampowered.com/app/282070/This_War_of_Mine/](http://store.steampowered.com/app/282070/This_War_of_Mine/)
 * horrors of being a civilian in a besieged city
 * survival RPG
 * Microsoft Windows, OS X, Linux, iOS, Android, PlayStation 4, Xbox One
 * Steam ($)
+* [Wikipedia entry](https://en.wikipedia.org/wiki/This_War_of_Mine)
 
 #### SOMA
 
@@ -494,7 +493,7 @@ If it is possible to gamify such seemingly boring things as learning keyboard sh
 
 * [vim-adventures.com](http://vim-adventures.com/)
 * [www.vimsnake.com](http://www.vimsnake.com/)
-    * proprietary (but there is a repository: [https://github.com/patmood/vim_snake](https://github.com/patmood/vim_snake))
+    * unclear license status, repo: [https://github.com/patmood/vim_snake](https://github.com/patmood/vim_snake)
 
 ## Meta
 
@@ -518,6 +517,8 @@ A game needs to fit this category and it needs to have science-based mechanics (
 
 Also, for games from typical genres, the bar is much higher. It is not enough that "you learn about ancient warfare" or "you explore outer space".
 As a rule of thumb, mainstream games don't fit here (with the exception of Kerbal Space Program).
+
+When a game is free ([as in freedom, not price](https://www.gnu.org/philosophy/free-sw.html)), the license and code repository will be stated when possible. Please note that unless otherwise stated, the game is proprietary *or* a license can't be found.
 
 #### Form
 
