@@ -149,6 +149,43 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 ### Biology
 
+#### Cellcraft
+
+* [www.kongregate.com/games/cellcraft/cellcraft](http://www.kongregate.com/games/cellcraft/cellcraft)
+* cell biology
+* real-time strategy
+* web-based Flash (free of charge)
+
+#### Meta!Blast
+
+* [www.metablast.org](http://www.metablast.org/) or [metnet-mbl.gdcb.iastate.edu](http://metnet-mbl.gdcb.iastate.edu)
+* plant and cell biology
+* flight simulator
+* nice descriptions of encountered elements
+* MacOS, Windows (free of charge)
+
+#### Foldit
+
+* [fold.it](https://fold.it)
+* protein conformation
+* 3d puzzle
+* citizen science
+* GNU/Linux, MacOS, Windows (free of charge)
+
+#### Pathogenesis
+
+* [boardgamegeek.com/boardgame/199309/pathogenesis](https://boardgamegeek.com/boardgame/199309/pathogenesis)
+* pathogens and immune response
+* a deck building game
+* board game ($)
+* it was a [successful Kickstarter project](https://www.kickstarter.com/projects/lorencunningham/pathogenesis)
+
+#### Evolution: the origin of species
+
+* [boardgamegeek.com/boardgame/71021/evolution-origin-species](https://boardgamegeek.com/boardgame/71021/evolution-origin-species)
+* evolution
+* card game ($)
+
 #### Cytosis
 
 * [boardgamegeek.com/boardgame/202977/cytosis-cell-biology-game](https://boardgamegeek.com/boardgame/202977/cytosis-cell-biology-game)
@@ -173,35 +210,6 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * viruses
 * board game ($)
 
-
-#### Cellcraft
-
-* [www.kongregate.com/games/cellcraft/cellcraft](http://www.kongregate.com/games/cellcraft/cellcraft)
-* cell biology
-* real-time strategy
-* web-based Flash (free of charge)
-
-#### Meta!Blast
-
-* [www.metablast.org](http://www.metablast.org/) or [metnet-mbl.gdcb.iastate.edu](http://metnet-mbl.gdcb.iastate.edu)
-* plant and cell biology
-* flight simulator
-* nice descriptions of encountered elements
-* MacOS, Windows (free of charge)
-
-#### Foldit
-
-* [fold.it](https://fold.it)
-* protein conformation
-* 3d puzzle
-* citizen science
-* GNU/Linux, MacOS, Windows (free of charge)
-
-#### Evolution: the origin of species
-
-* [boardgamegeek.com/boardgame/71021/evolution-origin-species](https://boardgamegeek.com/boardgame/71021/evolution-origin-species)
-* evolution
-* card game ($)
 
 #### Digestix
 
