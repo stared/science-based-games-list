@@ -406,6 +406,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * planar geometry
 * web, Android, iOS (free of charge)
 
+#### Engare
+* [Engare](http://www.engare.design/) (and [Engare on Steam](http://store.steampowered.com/app/415170/Engare/))
+* geometry, curves
+* motion puzzle
+* MacOS ($), Windows ($)
+
 #### Refractions
 
 * [centerforgamescience.org/blog/portfolio/refraction](http://centerforgamescience.org/blog/portfolio/refraction/)
