@@ -339,6 +339,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Like a cross between SpaceChem and Factorio
 * Windows ($), Mac ($), GNU/Linux ($)
 
+#### Google Turing Doodle
+
+* [https://www.google.com/doodles/alan-turings-100th-birthday](https://www.google.com/doodles/alan-turings-100th-birthday)
+* Turing tape programming
+* puzzle games
+* web-based (free of charge)
+* Apache license: [https://github.com/google/turing-doodle](https://github.com/google/turing-doodle)
+
 ### Health
 
 #### Lifesaver
