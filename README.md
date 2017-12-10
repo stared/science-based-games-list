@@ -476,6 +476,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * visual novel based on Ace Attorney series
 * different concepts of ethics
 
+#### Snakisms
+
+* [pippinbarr.github.io/SNAKISMS/](https://pippinbarr.github.io/SNAKISMS/)
+* variants of the Snake game
+* philosophical concepts
+* web (free of charge)
 
 ### Life experience games
 
