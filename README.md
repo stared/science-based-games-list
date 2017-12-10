@@ -271,6 +271,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * see also: [Lessons Learned from Shenzhen I/O](https://probablydance.com/2016/11/07/lessons-learned-from-shenzhen-io/)
 * GNU/Linux ($), MacOS ($), Windows ($)
 
+### Opus Magnum
+
+* [www.zachtronics.com/opus-magnum/](http://www.zachtronics.com/opus-magnum/)
+* programming
+* puzzle
+* author of other games: http://www.zachtronics.com/ including SpaceChem, TIS 100, Shenzhen I/O
+* GNU/Linux ($), MacOS ($), Windows ($)
+
 #### Robozzle
 
 * [http://www.robozzle.com/](http://www.robozzle.com/)
