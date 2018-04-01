@@ -15,6 +15,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 ## Games
 
+#### Legends of Learning
+* [www.legendsoflearning.com](https://www.legendsoflearning.com)
+* Earth and Space, Life, and Physical Sciences
+* 1000 short learning games for the classroom
+* Web (free of charge)
+* Description of NGSS ties to these science games (https://www.legendsoflearning.com/teachers/science-games/)
+
 ### Physics
 
 #### Velocity Raptor
