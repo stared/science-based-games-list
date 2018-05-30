@@ -355,6 +355,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * web-based (free of charge)
 * Apache license: [https://github.com/google/turing-doodle](https://github.com/google/turing-doodle)
 
+#### WarriorJS
+
+* [warrior.js.org](https://warrior.js.org/)
+* programming and AI
+* code-writing
+* web-based (free of charge)
+* MIT License: [https://github.com/olistic/warriorjs](https://github.com/olistic/warriorjs)
+
 ### Health
 
 #### Lifesaver
