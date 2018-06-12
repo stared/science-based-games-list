@@ -133,6 +133,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle / action / strategy
 * GNU/Linux ($), MacOS ($), Windows ($), Android ($), iOS ($)
 
+#### HelloQuantum
+
+* [helloquantum.mybluemix.net](http://helloquantum.mybluemix.net/)
+* quantum operations on 2 quibits
+* puzzle
+* iOS (free)
+* blog post: [Hello Quantum: Taking your first steps into quantum computation](https://medium.com/qiskitters/hello-quantum-2c1c00fe830c)
+
 ### Chemistry
 
 #### Covalence
