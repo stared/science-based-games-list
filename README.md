@@ -123,7 +123,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [boardgamegeek.com/boardgame/172737/high-frontier-3rd-edition](https://boardgamegeek.com/boardgame/172737/high-frontier-3rd-edition)
 * models space mission logistics
 * living game board and rules incorporate actual data as it is discovered
-* realistic resource usage and phyisics modeling
+* realistic resource usage and physics modeling
 * board game ($)
 
 #### Osmos
@@ -222,7 +222,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 * [boardgamegeek.com/boardgame/98918/bios-genesis](https://boardgamegeek.com/boardgame/98918/bios-genesis)
 * players start as organic compounds shortly after Earth's formation
-* create autocatalytic life and darwinian life
+* create autocatalytic life and Darwinian life
 * Players can play cooperative, competitive, or solitaire.
 * board game ($)
 
@@ -301,7 +301,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 * [https://code.org/learn](https://code.org/learn)
 * many puzzle games about programming and algorithms
-* some famous licences (e.g., Minecraft, Disney)
+* some famous licenses (e.g., Minecraft, Disney)
 * web-based (free of charge)
 * part [proprietary](https://code.org/tos), part Apache 2.0: [https://github.com/code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org)
 
@@ -328,7 +328,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [alexnisnevich.github.io/untrusted/](http://alexnisnevich.github.io/untrusted/)
 * programming in JavaScript
 * roguelike, puzzle
-* web, Javascript (free of charge)
+* web, JavaScript (free of charge)
 * dual licensed proprietary and CC BY-NC-SA 3.0: [https://github.com/AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted)
 
 #### Factorio
@@ -391,7 +391,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [agameofnumbers.com](http://agameofnumbers.com/)
   * also: [playable demo](http://joedev.net/JSIL/Numbers/)
   * [Ludum Dare - an almost success story](http://www.ludumdare.com/compo/2013/08/02/an-almost-success-story/)
-* arithmetics
+* arithmetic
 * puzzle/maze
 * GNU/Linux ($), MacOS ($), Windows ($)
 
@@ -406,7 +406,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 #### HydraSlayer
 
 * [www.roguetemple.com/z/hydra/](http://www.roguetemple.com/z/hydra/)
-* arithmetics, a bit of number theory
+* arithmetic, a bit of number theory
 * a rogue-like game
 * GNU/Linux, MacOS, Windows, Android ([pay-what-you-want](https://zenorogue.itch.io/hydra-slayer))
 * license: version 17 and Android version GNU GPLv2 (code on homepage); version 18 appears to be proprietary
@@ -503,7 +503,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 There are a few games that *feel* somewhat related (even if not that much science-based).
 I (@stared) considered putting them in psychology/sociology, but it turned out to be a controversial issue.
-Again, what is crucial - it's not about only about theme, but game mechanics aligned with experiencing a difficult life siutation.
+Again, what is crucial - it's not about only about theme, but game mechanics aligned with experiencing a difficult life situation.
 
 #### Depression Quest
 
@@ -559,7 +559,7 @@ The easiest way is to edit this file, commit and create a Pull Request.
 Remember to include:
 
 * working link (and its nicer version), e.g. `[immunology-fps.edu](https://immunology-fps.edu)`
-* field of science or enginering, e.g. `immunology`
+* field of science or engineering, e.g. `immunology`
 * type of game `first-person shooter`
 * (optional) technology or system, e.g. `Android, iOS, web`
 * (optional) link to additional materials (e.g. repo, some interesting blog post about this game)
