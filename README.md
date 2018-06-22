@@ -140,6 +140,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * iOS (free)
 * blog post: [Hello Quantum: Taking your first steps into quantum computation](https://medium.com/qiskitters/hello-quantum-2c1c00fe830c)
+* its terminal-based open-source version: https://github.com/decodoku/Quantum_Programming_Tutorial
 
 ### Chemistry
 
