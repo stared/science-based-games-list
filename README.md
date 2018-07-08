@@ -235,6 +235,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Players can play cooperative, competitive, or solitaire.
 * board game ($)
 
+#### Crescent Loom
+
+* http://wick.works/crescentloom/
+* Players build underwater creatures (a la Spore) and get them to move by weaving neurons into a simple brain.
+* Neurons are simulated using a compartmental RC-circuit model.
+* Early Access.
+* PC/Mac/Linux (paid), Html5 (free)
+
 ### Computer science
 
 #### Turing Game
