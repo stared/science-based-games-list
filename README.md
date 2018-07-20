@@ -167,7 +167,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Cell Lab: Evolution Sandbox
 
-* [www.cell-lab.net](www.cell-lab.net) or [Google Play Store](https://play.google.com/store/apps/details?id=com.saterskog.cell_lab)
+* [www.cell-lab.net](http://www.cell-lab.net) or [Google Play Store](https://play.google.com/store/apps/details?id=com.saterskog.cell_lab)
 * evolution, cell biology
 * design of reproducing organisms
 * Android (free of charge)
