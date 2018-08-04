@@ -477,6 +477,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * web (free of charge)
 * MIT license: [https://github.com/jacquerie/hh](https://github.com/jacquerie/hh)
 
+#### 4D Toys
+
+* [4dtoys.com](http://4dtoys.com/)
+* playing with 4-dimensional shapes
+* Windows ($)
+
 ### Sociology and economy
 
 #### Peacemaker
