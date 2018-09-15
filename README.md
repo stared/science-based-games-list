@@ -142,6 +142,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * blog post: [Hello Quantum: Taking your first steps into quantum computation](https://medium.com/qiskitters/hello-quantum-2c1c00fe830c)
 * its terminal-based open-source version: https://github.com/decodoku/Quantum_Programming_Tutorial
 
+#### Interplanetary Postal Service
+
+* [github.com/s-macke/Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service)
+* Fluid dynamics
+* Lunar Lander genre
+* web (free of charge)
+
 ### Chemistry
 
 #### Covalence
