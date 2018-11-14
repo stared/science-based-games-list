@@ -394,6 +394,22 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * web-based (free of charge)
 * MIT License: [https://github.com/olistic/warriorjs](https://github.com/olistic/warriorjs)
 
+#### nandgame
+
+* [http://nandgame.com/](http://nandgame.com/)
+* digital logic and computer design
+* puzzle
+* build a processor from start
+* web-based (free of charge)
+
+#### Digital Logic Design (The Game)
+ 
+* [http://asteriskman7.github.io/dldtg/](http://asteriskman7.github.io/dldtg/)
+* digital logic design
+* increment game
+* web-based (free of charge)
+* GPLv3 License: [https://github.com/asteriskman7/dldtg]
+
 ### Health
 
 #### Lifesaver
