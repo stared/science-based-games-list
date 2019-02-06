@@ -410,6 +410,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * web-based (free of charge)
 * GPLv3 License: [https://github.com/asteriskman7/dldtg]
 
+#### Microcorruption
+
+* [https://microcorruption.com/](https://microcorruption.com/)
+* assembly programming
+* puzzle
+* web-based (free of charge)
+
 ### Health
 
 #### Lifesaver
