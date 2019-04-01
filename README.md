@@ -165,6 +165,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 ### Biology
 
+#### Incredipede
+
+* http://www.incredipede.com/buy.html
+* anatomy
+* puzzle-platformer
+* Unity-based
+
 #### Cellcraft
 
 * [www.kongregate.com/games/cellcraft/cellcraft](http://www.kongregate.com/games/cellcraft/cellcraft)
@@ -258,6 +265,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * [Kickstarter founded: Crescent Loom: weave neurons, stitch muscles, create life.](https://www.kickstarter.com/projects/wickworks/crescent-loom-stitch-muscles-weave-neurons-create)
 
 ### Computer science
+
+#### Recursed
+
+* [Steam page](https://store.steampowered.com/app/497780/Recursed/)
+* Functional programming
+* puzzle
+* Desktop
 
 #### Turing Game
 
