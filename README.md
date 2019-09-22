@@ -142,6 +142,18 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * blog post: [Hello Quantum: Taking your first steps into quantum computation](https://medium.com/qiskitters/hello-quantum-2c1c00fe830c)
 * its terminal-based open-source version: https://github.com/decodoku/Quantum_Programming_Tutorial
 
+#### QPong
+
+* Python version: [https://github.com/HuangJunye/QPong](https://github.com/HuangJunye/QPong)
+* Unity version: [https://github.com/HuangJunye/QPong-Unity](https://github.com/HuangJunye/QPong-Unity)
+* Quantum version of Pong with paddles controlled by quantum circuits
+* sports (Pong was sports)
+* Linux, Windows, macOS
+* Apache 2.0 license
+* video:
+   * [Quantum Pong — Programming on Quantum Computers Ep 1](https://www.youtube.com/watch?v=a1NZC5rqQD8)
+   * [How to defeat classical computer in QPong](https://www.youtube.com/watch?v=eEfF4cOoobc)
+
 #### Interplanetary Postal Service
 
 * [github.com/s-macke/Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service)
