@@ -148,11 +148,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Unity version: [https://github.com/HuangJunye/QPong-Unity](https://github.com/HuangJunye/QPong-Unity)
 * Quantum version of Pong with paddles controlled by quantum circuits
 * sports (Pong was sports)
-* Linux, Windows, macOS
+* Linux, Windows, macOS (free of charge)
 * Apache 2.0 license
-* video:
+* videos:
    * [Quantum Pong — Programming on Quantum Computers Ep 1](https://www.youtube.com/watch?v=a1NZC5rqQD8)
    * [How to defeat classical computer in QPong](https://www.youtube.com/watch?v=eEfF4cOoobc)
+* blog post: [The History of Games for Quantum Computers](https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a)
 
 #### Interplanetary Postal Service
 
