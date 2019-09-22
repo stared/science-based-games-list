@@ -153,7 +153,9 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * videos:
    * [Quantum Pong — Programming on Quantum Computers Ep 1](https://www.youtube.com/watch?v=a1NZC5rqQD8)
    * [How to defeat classical computer in QPong](https://www.youtube.com/watch?v=eEfF4cOoobc)
-* blog post: [The History of Games for Quantum Computers](https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a)
+* blog post:
+   * [Recap of Qiskit Camp 2019](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
+   * [The History of Games for Quantum Computers](https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a)
 
 #### Interplanetary Postal Service
 
