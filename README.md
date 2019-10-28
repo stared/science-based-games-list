@@ -157,6 +157,18 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
    * [Recap of Qiskit Camp 2019](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
    * [The History of Games for Quantum Computers](https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a)
 
+#### QiskitBlocks
+
+* [QiskitBlocks.org](https://github.com/JavaFXpert/QiskitBlocks)
+* Minecraft-like environment with quantum circuit demonstrations, puzzles, and escape rooms
+* puzzle / strategy
+* Linux, Windows, macOS, Android (free of charge)
+* Apache 2.0 license
+* Videos:
+   * [QiskitBlocks brief demo](https://vimeo.com/356185384)
+* Used in quantum computing workshop:
+   * [Quantum Computing Workshop with QiskitBlocks](https://slides.com/javafxpert/qiskitblocks)
+
 #### Interplanetary Postal Service
 
 * [github.com/s-macke/Interplanetary-Postal-Service](https://github.com/s-macke/Interplanetary-Postal-Service)
