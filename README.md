@@ -577,6 +577,20 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * philosophical concepts
 * web (free of charge)
 
+### Design
+
+#### Kern Type, the kerning game
+
+* [https://type.method.ac/](type.method.ac)
+* adjusting letters
+* web (free of charge)
+
+#### The Bézier Game
+
+* [bezier.method.ac](https://bezier.method.ac/)
+* drawing Bézier curves
+* web (free of charge)
+
 ### Life experience games
 
 There are a few games that *feel* somewhat related (even if not that much science-based).
