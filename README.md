@@ -190,6 +190,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * compounds
 * board game ($)
 
+### Atomix (1990)
+
+* [classicreload.com/atomix.html](https://classicreload.com/atomix.html)
+* molecules
+* puzzle game
+* DOS
+* extra: [Atomix on Wikipedia](https://en.wikipedia.org/wiki/Atomix_(video_game))
+
 #### Sokobond
 
 * [www.sokobond.com](http://www.sokobond.com/)
