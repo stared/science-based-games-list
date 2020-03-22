@@ -190,6 +190,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * compounds
 * board game ($)
 
+#### Sokobond
+
+* [www.sokobond.com](http://www.sokobond.com/)
+* molecules
+* puzzle game
+* Windows/MacOS/Linux ($)
+
 ### Biology
 
 #### Incredipede
