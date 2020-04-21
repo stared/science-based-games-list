@@ -513,6 +513,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * playing with 4-dimensional shapes
 * Windows ($)
 
+#### Matheminecraft
+
+* [epfl.ch](https://www.epfl.ch/schools/sb/research/math/get-matheminecraft/)
+* teaches about Eulerian graphs
+* Windows/Mac (free of charge)
+
 ### Sociology and economy
 
 #### Peacemaker
