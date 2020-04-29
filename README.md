@@ -79,7 +79,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 #### Relativity Wars
 
-* [www.fungameco.com/relativity-wars.php](http://www.fungameco.com/relativity-wars.php)
+* store.steampowered.com/app/341640/Relativity_Wars__A_Science_Space_RTS](https://store.steampowered.com/app/341640/Relativity_Wars__A_Science_Space_RTS/)
 * space arcade / RTS
 * some parts of relativity
 * Android ($), iOS ($), MacOS ($), Windows ($)
