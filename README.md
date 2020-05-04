@@ -214,7 +214,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Evolution simulator, top-down perspective. The player evolves and controls their own single cellular species, playing as one cell and competing against other AI species that evolve and adapt alongside them.
 * Windows & Linux (free of charge)
 * GNU General Public License
-* [https://github.com/Revolutionary-Games/Thrive](Main repo)
+* [Main repo](https://github.com/Revolutionary-Games/Thrive)
 
 #### Incredipede
 
