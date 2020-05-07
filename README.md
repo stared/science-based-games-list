@@ -417,6 +417,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * puzzle
 * web-based (free of charge)
 
+#### SQL PD
+
+* [https://sqlpd.com/](https://sqlpd.com/)
+* SQL
+* puzzle
+* web-based ($)
+
 ### Health
 
 #### Lifesaver
