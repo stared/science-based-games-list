@@ -319,7 +319,9 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 #### Macromolecule Man
 
 * [biomanbio.com/HTML5GamesandLabs/LifeChemgames/macromoleculeman-page.html](https://biomanbio.com/HTML5GamesandLabs/LifeChemgames/macromoleculeman-page.html)
-* side-scrolling platform game whereby players learn about macromolecules, biological molecules, carbohydrates, lipids, proteins, nucleic acids, monosaccharaides, sugars, amino acids, fats, cholesterol, phospholipids, DNA, RNA, enzymes, monomers and polymers.
+* side-scrolling platform game whereby you are Mac, the Macromolecule Man.💪
+* Using your molecule blaster, you will solve a variety of puzzles, building and using the key biological molecules that make life possible.
+* Learn about carbohydrates, lipids, proteins, nucleic acids, and their building blocks.
 * web-based (free of charge)
 
 ### Computer science
