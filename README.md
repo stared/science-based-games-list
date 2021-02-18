@@ -333,6 +333,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 ### Computer science
 
+#### nandgame
+* [http://nandgame.com/](http://nandgame.com/)
+* digital logic and computer design
+* puzzle
+* build a processor from start
+* web-based (free of charge)
+
 #### Deadlock Empire
 
 * [https://deadlockempire.github.io/](https://deadlockempire.github.io/)
