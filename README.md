@@ -57,6 +57,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * strategy
 * GNU/Linux ($), MacOS ($), Windows ($)
 
+#### Orbiter 2016
+
+* [orbit.medphys.ucl.ac.uk/index](http://orbit.medphys.ucl.ac.uk/index.html)
+* Newtonian physics, orbital mechanics, flight mechanics
+* Space Flight Simulator
+* Windows (free)
+
 #### Delta V
 * [deltav.corpsmoderne.net](http://deltav.corpsmoderne.net/)
 * Newtonian physics, orbital mechanics
