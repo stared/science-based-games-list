@@ -333,6 +333,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 ### Computer science
 
+#### Deadlock Empire
+
+* [https://deadlockempire.github.io/](https://deadlockempire.github.io/)
+* Multi-threading
+* puzzle
+* web (free of charge)
+
 #### Recursed
 
 * [Steam page](https://store.steampowered.com/app/497780/Recursed/)
