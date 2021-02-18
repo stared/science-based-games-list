@@ -323,6 +323,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Window/Mac/Linux ($), web (demo, free of charge)
 * [Kickstarter founded: Crescent Loom: weave neurons, stitch muscles, create life.](https://www.kickstarter.com/projects/wickworks/crescent-loom-stitch-muscles-weave-neurons-create)
 
+#### Macromolecule Man
+
+* [biomanbio.com/HTML5GamesandLabs/LifeChemgames/macromoleculeman-page.html](https://biomanbio.com/HTML5GamesandLabs/LifeChemgames/macromoleculeman-page.html)
+* side-scrolling platform game whereby you are Mac, the Macromolecule Man.💪
+* Using your molecule blaster, you will solve a variety of puzzles, building and using the key biological molecules that make life possible.
+* Learn about carbohydrates, lipids, proteins, nucleic acids, and their building blocks.
+* web-based (free of charge)
+
 ### Computer science
 
 #### Recursed
