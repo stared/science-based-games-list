@@ -333,6 +333,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 ### Computer science
 
+#### Digital Logic Design (The Game)
+* [http://asteriskman7.github.io/dldtg/](http://asteriskman7.github.io/dldtg/)
+* digital logic design
+* increment game
+* web-based (free of charge)
+* GPLv3 License: [https://github.com/asteriskman7/dldtg](https://github.com/asteriskman7/dldtg)
+
 #### nandgame
 * [http://nandgame.com/](http://nandgame.com/)
 * digital logic and computer design
