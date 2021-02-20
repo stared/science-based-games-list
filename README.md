@@ -592,6 +592,12 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * playing with 4-dimensional shapes
 * Windows ($)
 
+#### Dragonbox Algebra
+
+* [dragonbox algebra](https://dragonbox.com/products/algebra-12)
+* Entertaining puzzle game stealthily teaches you to solve algebraic equations
+* Android ($), iOS ($)
+
 ### Sociology and economy
 
 #### Peacemaker
