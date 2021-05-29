@@ -184,6 +184,15 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Lunar Lander genre
 * web (free of charge)
 
+#### Spintronics Simulator
+
+* [www.turingtumble.com/upperstory/spintronics/simulator/index.html](https://www.turingtumble.com/upperstory/spintronics/simulator/index.html)
+* Electric circuits
+* Puzzle
+* Emulate electric circuits using mechanical devices
+* web (free of charge)
+* A physical and commercial version is [available on Kickstarter](https://www.kickstarter.com/projects/upperstory/spintronics-build-mechanical-circuits)
+
 ### Chemistry
 
 #### Covalence
