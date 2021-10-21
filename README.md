@@ -505,6 +505,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * web-based (free of charge)
 * MIT License: [https://github.com/olistic/warriorjs](https://github.com/olistic/warriorjs)
 
+#### The Unix Game 
+
+* [unixgame.io/](https://unixgame.io/unix50)
+* Unix programming
+* puzzle games
+* solve puzzle composing Unix commands in a visual programming language
+* web-based (free of charge)
+
 ### Health
 
 #### Lifesaver
