@@ -165,6 +165,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
    * [Recap of Qiskit Camp 2019](https://medium.com/qiskit/recap-of-qiskit-camp-2019-4d95f07dd179)
    * [The History of Games for Quantum Computers](https://medium.com/@decodoku/the-history-of-games-for-quantum-computers-a1de98859b5a)
 
+#### Quantle
+
+* [Quantle](https://deduckproject.github.io/quantle/)
+* Quantum version of Wordle
+* puzzle
+* web (free of charge)
+
 #### QiskitBlocks
 
 * [QiskitBlocks.org](https://github.com/JavaFXpert/QiskitBlocks)
