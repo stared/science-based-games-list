@@ -207,7 +207,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * compounds
 * board game ($)
 
-### Atomix (1990)
+#### Atomix (1990)
 
 * [classicreload.com/atomix.html](https://classicreload.com/atomix.html)
 * molecules
@@ -505,6 +505,21 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * web-based (free of charge)
 * MIT License: [https://github.com/olistic/warriorjs](https://github.com/olistic/warriorjs)
 
+#### Screeps: World
+
+* [screeps.com](https://screeps.com/)
+* strategy
+   * 2D grid, agents
+   * persistent world
+   * PvP
+* code-writing
+   * JavaScript, Lodash
+   * units controlled by code, not GUI
+* web-based, [Steam](https://store.steampowered.com/app/464350)
+* free on private servers, paid on official ones
+* [documentation](https://docs.screeps.com/)
+* [API reference](https://docs.screeps.com/api/)
+
 ### Health
 
 #### Lifesaver
@@ -557,7 +572,7 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 
 * [www.mathbreakers.com](https://www.mathbreakers.com/)
 * arithmetics
-* 3d adventure game
+* 3D adventure game
 * GNU/Linux ($), MacOS ($), Windows ($) with free of charge demo
 
 #### Euclid the Game
