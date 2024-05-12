@@ -340,6 +340,16 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * Learn about carbohydrates, lipids, proteins, nucleic acids, and their building blocks.
 * web-based (free of charge)
 
+#### Mission Biotech
+
+* [virtualheroes.com/MissionBiotech/](https://virtualheroes.com/MissionBiotech/)
+* Players investigate which virus is causing outbreaks.
+* Game is first person 3D.
+* Wet lab protocols like Reverse Transcription (RT), Polymerase Chain Reaction (PCR), DNA extraction - are close to real.
+* Features a couple of mini-games, emulating DNA extraction and PCR (via in-game gaming console) in addition to main gameplay.
+* Windows (free of charge)
+* [Available on Steam for free](https://store.steampowered.com/app/1286810/Mission_Biotech/)
+
 ### Computer science
 
 #### Digital Logic Design (The Game)
