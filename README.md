@@ -439,6 +439,14 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * from the designers of Little Inferno and World of Goo
 * GNU/Linux ($), MacOS ($), Windows ($), Android ($), iOS ($), Wii U ($)
 
+#### 7 Billion Humans
+
+* [https://tomorrowcorporation.com/7billionhumans](https://tomorrowcorporation.com/7billionhumans)
+* robotics/turtle programming
+* puzzle
+* pseudo-sequel to Human Resource Machine (same developers, slightly different gameplay)
+* GNU/Linux ($), MacOS ($), Windows ($), Android ($), iOS ($), Nintendo Switch ($)
+
 #### Hour of Code
 
 * [https://code.org/learn](https://code.org/learn)
