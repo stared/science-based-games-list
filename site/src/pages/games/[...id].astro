@@ -5,7 +5,7 @@ import Layout from '../../layouts/Layout.astro';
 export async function getStaticPaths() {
   const games = await getCollection('games');
   return games.map(game => ({
-    params: { id: game.id },
+    params: { id: game.id.replace('.md', '') },
     props: { game },
   }));
 }

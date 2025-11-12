@@ -70,7 +70,7 @@ const gamesByCategory = categories.reduce((acc, category) => {
           <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
             {gamesByCategory[category].map(game => (
               <a
-                href={`/games/${game.id}`}
+                href={`/games/${game.id.replace('.md', '')}`}
                 class="game-card block p-4 border border-gray-200 rounded hover:border-gray-400 transition-colors space-y-2"
                 data-title={game.data.title.toLowerCase()}
                 data-topics={game.data.topics.join(',').toLowerCase()}
