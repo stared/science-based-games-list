@@ -1,0 +1,45 @@
+---
+import '../styles/global.css';
+
+interface Props {
+  title: string;
+  description?: string;
+}
+
+const { title, description = "A curated list of science-based games that teach through play" } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="description" content={description} />
+    <meta name="generator" content={Astro.generator} />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <title>{title}</title>
+  </head>
+  <body class="min-h-screen bg-white text-gray-900">
+    <header class="border-b border-gray-200">
+      <div class="max-w-6xl mx-auto px-4 py-6">
+        <a href="/" class="inline-block">
+          <h1 class="text-2xl font-light tracking-tight">Science-Based Games</h1>
+        </a>
+      </div>
+    </header>
+
+    <main class="max-w-6xl mx-auto px-4 py-8">
+      <slot />
+    </main>
+
+    <footer class="border-t border-gray-200 mt-16">
+      <div class="max-w-6xl mx-auto px-4 py-8 text-sm text-gray-600">
+        <p>
+          A collaborative list dedicated to the public domain
+          (<a href="https://creativecommons.org/share-your-work/public-domain/cc0/" class="underline hover:text-gray-900">CC0</a>).
+          Started and maintained by <a href="http://p.migdal.pl/" class="underline hover:text-gray-900">Piotr Migdał</a>.
+        </p>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,16 +1,195 @@
 ---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
 
+const allGames = await getCollection('games');
+const sortedGames = allGames.sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+// Get unique categories
+const categories = [...new Set(allGames.map(game => game.data.category))].sort();
+
+// Group games by category
+const gamesByCategory = categories.reduce((acc, category) => {
+  acc[category] = sortedGames.filter(game => game.data.category === category);
+  return acc;
+}, {} as Record<string, typeof sortedGames>);
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<meta name="viewport" content="width=device-width" />
-		<meta name="generator" content={Astro.generator} />
-		<title>Astro</title>
-	</head>
-	<body>
-		<h1>Astro</h1>
-	</body>
-</html>
+<Layout title="Science-Based Games">
+  <div class="space-y-8">
+    <div class="space-y-4">
+      <p class="text-lg text-gray-600 max-w-3xl">
+        A curated collection of {allGames.length} games that capture real scientific phenomena and are actually playable for fun, not just for classroom use.
+      </p>
+
+      <div class="space-y-3">
+        <input
+          type="text"
+          id="searchInput"
+          placeholder="Search games by title or topic..."
+          class="w-full px-4 py-2 border border-gray-300 rounded focus:outline-none focus:border-gray-900"
+        />
+
+        <div class="flex flex-wrap gap-2">
+          <button
+            data-category="all"
+            class="category-btn px-3 py-1 text-sm border border-gray-900 bg-gray-900 text-white rounded transition-colors"
+          >
+            All ({allGames.length})
+          </button>
+          {categories.map(category => (
+            <button
+              data-category={category}
+              class="category-btn px-3 py-1 text-sm border border-gray-300 rounded hover:border-gray-900 transition-colors"
+            >
+              {category.charAt(0).toUpperCase() + category.slice(1)} ({gamesByCategory[category].length})
+            </button>
+          ))}
+        </div>
+
+        <div class="flex flex-wrap gap-4 text-sm">
+          <label class="flex items-center gap-2 cursor-pointer">
+            <input type="checkbox" id="freeOnly" class="rounded" />
+            <span>Free games only</span>
+          </label>
+          <label class="flex items-center gap-2 cursor-pointer">
+            <input type="checkbox" id="openSourceOnly" class="rounded" />
+            <span>Open source only</span>
+          </label>
+        </div>
+      </div>
+    </div>
+
+    <div id="gamesContainer" class="space-y-12">
+      {categories.map(category => (
+        <section data-category-section={category} class="space-y-4">
+          <h2 class="text-xl font-light tracking-tight border-b border-gray-200 pb-2">
+            {category.charAt(0).toUpperCase() + category.slice(1)}
+          </h2>
+
+          <div class="grid gap-4 md:grid-cols-2 lg:grid-cols-3">
+            {gamesByCategory[category].map(game => (
+              <a
+                href={`/games/${game.id}`}
+                class="game-card block p-4 border border-gray-200 rounded hover:border-gray-400 transition-colors space-y-2"
+                data-title={game.data.title.toLowerCase()}
+                data-topics={game.data.topics.join(',').toLowerCase()}
+                data-category={game.data.category}
+                data-free={game.data.free}
+                data-source={game.data.source ? 'true' : 'false'}
+              >
+                <h3 class="font-medium">{game.data.title}</h3>
+
+                <div class="text-sm text-gray-600 space-y-1">
+                  <p class="line-clamp-2">{game.data.topics.join(', ')}</p>
+
+                  <div class="flex flex-wrap gap-1 pt-1">
+                    {game.data.platforms.slice(0, 3).map(platform => (
+                      <span class="px-2 py-0.5 text-xs bg-gray-100 rounded">
+                        {platform}
+                      </span>
+                    ))}
+                    {game.data.platforms.length > 3 && (
+                      <span class="px-2 py-0.5 text-xs bg-gray-100 rounded">
+                        +{game.data.platforms.length - 3}
+                      </span>
+                    )}
+                    {game.data.free && (
+                      <span class="px-2 py-0.5 text-xs bg-green-100 text-green-800 rounded">
+                        free
+                      </span>
+                    )}
+                  </div>
+                </div>
+              </a>
+            ))}
+          </div>
+        </section>
+      ))}
+    </div>
+  </div>
+
+  <script>
+    const searchInput = document.getElementById('searchInput') as HTMLInputElement;
+    const freeOnlyCheckbox = document.getElementById('freeOnly') as HTMLInputElement;
+    const openSourceOnlyCheckbox = document.getElementById('openSourceOnly') as HTMLInputElement;
+    const categoryButtons = document.querySelectorAll('.category-btn');
+    const gameCards = document.querySelectorAll('.game-card');
+    const categorySections = document.querySelectorAll('[data-category-section]');
+
+    let selectedCategory = 'all';
+
+    function filterGames() {
+      const searchTerm = searchInput.value.toLowerCase();
+      const freeOnly = freeOnlyCheckbox.checked;
+      const openSourceOnly = openSourceOnlyCheckbox.checked;
+
+      gameCards.forEach(card => {
+        const element = card as HTMLElement;
+        const title = element.dataset.title || '';
+        const topics = element.dataset.topics || '';
+        const category = element.dataset.category || '';
+        const isFree = element.dataset.free === 'true';
+        const hasSource = element.dataset.source === 'true';
+
+        let visible = true;
+
+        // Search filter
+        if (searchTerm && !title.includes(searchTerm) && !topics.includes(searchTerm)) {
+          visible = false;
+        }
+
+        // Category filter
+        if (selectedCategory !== 'all' && category !== selectedCategory) {
+          visible = false;
+        }
+
+        // Free filter
+        if (freeOnly && !isFree) {
+          visible = false;
+        }
+
+        // Open source filter
+        if (openSourceOnly && !hasSource) {
+          visible = false;
+        }
+
+        element.style.display = visible ? '' : 'none';
+      });
+
+      // Hide empty category sections
+      categorySections.forEach(section => {
+        const sectionElement = section as HTMLElement;
+        const sectionCategory = sectionElement.dataset.categorySection;
+        const visibleCards = Array.from(gameCards).filter(card => {
+          const element = card as HTMLElement;
+          return element.dataset.category === sectionCategory && element.style.display !== 'none';
+        });
+
+        sectionElement.style.display = visibleCards.length > 0 ? '' : 'none';
+      });
+    }
+
+    // Category buttons
+    categoryButtons.forEach(button => {
+      button.addEventListener('click', () => {
+        categoryButtons.forEach(btn => {
+          btn.classList.remove('bg-gray-900', 'text-white', 'border-gray-900');
+          btn.classList.add('border-gray-300');
+        });
+
+        button.classList.add('bg-gray-900', 'text-white', 'border-gray-900');
+        button.classList.remove('border-gray-300');
+
+        const element = button as HTMLElement;
+        selectedCategory = element.dataset.category || 'all';
+        filterGames();
+      });
+    });
+
+    // Search and filters
+    searchInput.addEventListener('input', filterGames);
+    freeOnlyCheckbox.addEventListener('change', filterGames);
+    openSourceOnlyCheckbox.addEventListener('change', filterGames);
+  </script>
+</Layout>
