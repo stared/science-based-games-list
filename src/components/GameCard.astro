@@ -37,19 +37,14 @@ function getPlatformIcon(platform: string) {
 
 <div class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden flex flex-col h-full border border-slate-200">
   <div class="p-5 flex-grow">
-    <div class="flex justify-between items-start mb-2">
+    <div class="mb-2 flex items-center justify-between gap-2 flex-wrap">
       <span class="text-xs font-semibold px-2 py-1 rounded bg-indigo-100 text-indigo-800 uppercase tracking-wide">
         {data.category}
       </span>
-      <div class="flex gap-1">
-        {data.pricing.map(p => (
-          <span class={`inline-flex items-center gap-1 text-xs px-2 py-1 rounded border ${p === 'free' ? 'bg-green-50 text-green-700 border-green-200' : 'bg-amber-50 text-amber-700 border-amber-200'}`}>
-            {p === 'free' ? (
-              <DollarCrossedIcon />
-            ) : (
-              <DollarIcon />
-            )}
-            {p}
+      <div class="flex items-center gap-2 flex-wrap">
+        {data.genres.map(genre => (
+          <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-100 text-slate-800">
+            {genre}
           </span>
         ))}
       </div>
@@ -66,17 +61,9 @@ function getPlatformIcon(platform: string) {
     <p class="text-slate-600 text-sm mb-4 line-clamp-3">
       {data.description}
     </p>
-
-    <div class="flex flex-wrap gap-2 mt-auto">
-      {data.genres.map(genre => (
-        <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-100 text-slate-800">
-          {genre}
-        </span>
-      ))}
-    </div>
   </div>
   
-  <div class="bg-slate-50 px-5 py-3 border-t border-slate-100 flex justify-between items-center text-xs text-slate-500">
+  <div class="bg-slate-50 px-5 py-3 border-t border-slate-100 flex items-center justify-between text-xs text-slate-500">
     <div class="flex gap-3 items-center flex-wrap">
         {data.platforms.map(platform => {
           const icon = getPlatformIcon(platform);
@@ -97,13 +84,26 @@ function getPlatformIcon(platform: string) {
           );
         })}
     </div>
-    {data.repo_url && (
-      <a href={data.repo_url} target="_blank" rel="noopener noreferrer" class="flex items-center gap-1 hover:text-slate-800">
-        <span>Code</span>
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" role="img" aria-label={simpleIcons.siGithub.title}>
-          <path d={simpleIcons.siGithub.path} />
-        </svg>
-      </a>
-    )}
+    
+    <div class="flex items-center gap-2">
+      {data.pricing.map(p => (
+        <span class="inline-flex items-center" title={p === 'free' ? 'Free' : 'Paid'}>
+          {p === 'free' ? (
+            <DollarCrossedIcon />
+          ) : (
+            <DollarIcon />
+          )}
+          <span class="sr-only">{p}</span>
+        </span>
+      ))}
+      {data.repo_url && (
+        <a href={data.repo_url} target="_blank" rel="noopener noreferrer" class="flex items-center gap-1 hover:text-slate-800">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" role="img" aria-label={simpleIcons.siGithub.title}>
+            <path d={simpleIcons.siGithub.path} />
+          </svg>
+          <span class="sr-only">Code</span>
+        </a>
+      )}
+    </div>
   </div>
 </div>
