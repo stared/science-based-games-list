@@ -11,9 +11,10 @@
     "test": "tsx scripts/validate.ts"
   },
   "dependencies": {
+    "@astrojs/tailwind": "^5.1.0",
     "astro": "^5.1.1",
-    "tailwindcss": "^3.4.1",
-    "@astrojs/tailwind": "^5.1.0"
+    "simple-icons": "^16.6.1",
+    "tailwindcss": "^3.4.1"
   },
   "devDependencies": {
     "tsx": "^4.7.0"

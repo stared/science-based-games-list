@@ -1,5 +1,9 @@
 ---
 import type { CollectionEntry } from 'astro:content';
+import * as simpleIcons from 'simple-icons';
+import WindowsIcon from './icons/WindowsIcon.astro';
+import DollarIcon from './icons/DollarIcon.astro';
+import DollarCrossedIcon from './icons/DollarCrossedIcon.astro';
 
 interface Props {
   game: CollectionEntry<'games'>;
@@ -7,6 +11,28 @@ interface Props {
 
 const { game } = Astro.props;
 const { data } = game;
+
+// Map platform names to simple-icons (with si prefix)
+const platformIconMap: Record<string, keyof typeof simpleIcons | 'windows'> = {
+  'Windows': 'windows', // Custom icon
+  'Linux': 'siLinux',
+  'macOS': 'siApple',
+  'Android': 'siAndroid',
+  'iOS': 'siApple',
+  'Web': 'siHtml5',
+  'PlayStation 4': 'siPlaystation',
+};
+
+function getPlatformIcon(platform: string) {
+  const iconKey = platformIconMap[platform];
+  if (iconKey === 'windows') {
+    return null; // Handle separately
+  }
+  if (iconKey && simpleIcons[iconKey as keyof typeof simpleIcons]) {
+    return simpleIcons[iconKey as keyof typeof simpleIcons];
+  }
+  return null;
+}
 ---
 
 <div class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden flex flex-col h-full border border-slate-200">
@@ -17,9 +43,14 @@ const { data } = game;
       </span>
       <div class="flex gap-1">
         {data.pricing.map(p => (
-           <span class={`text-xs px-2 py-1 rounded border ${p === 'free' ? 'bg-green-50 text-green-700 border-green-200' : 'bg-amber-50 text-amber-700 border-amber-200'}`}>
-             {p}
-           </span>
+          <span class={`inline-flex items-center gap-1 text-xs px-2 py-1 rounded border ${p === 'free' ? 'bg-green-50 text-green-700 border-green-200' : 'bg-amber-50 text-amber-700 border-amber-200'}`}>
+            {p === 'free' ? (
+              <DollarCrossedIcon />
+            ) : (
+              <DollarIcon />
+            )}
+            {p}
+          </span>
         ))}
       </div>
     </div>
@@ -46,15 +77,32 @@ const { data } = game;
   </div>
   
   <div class="bg-slate-50 px-5 py-3 border-t border-slate-100 flex justify-between items-center text-xs text-slate-500">
-    <div class="flex gap-2">
-        {data.platforms.map(platform => (
-            <span>{platform}</span>
-        ))}
+    <div class="flex gap-3 items-center flex-wrap">
+        {data.platforms.map(platform => {
+          const icon = getPlatformIcon(platform);
+          const isWindows = platform === 'Windows';
+          return (
+            <span class="inline-flex items-center gap-1" title={platform}>
+              {isWindows ? (
+                <WindowsIcon />
+              ) : icon ? (
+                <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" role="img" aria-label={icon.title}>
+                  <path d={icon.path} />
+                </svg>
+              ) : (
+                <span class="text-xs">{platform}</span>
+              )}
+              <span class="sr-only">{platform}</span>
+            </span>
+          );
+        })}
     </div>
     {data.repo_url && (
-      <a href={data.repo_url} target="_blank" rel="noopener noreferrer" class="flex items-center hover:text-slate-800">
-        <span class="mr-1">Code</span>
-        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0 3 1.5l2.5 2.5c3.5 0 5.5 2 5.5 5.5-.69 3.16-3.09 5.61-6 6.5a4.8 4.8 0 0 0-1 3.5v4"></path><path d="M9 22v-4a4.8 4.8 0 0 0-1-3.5c-3 0-6-2-6-5.5.08-1.25.27-2.48 1-3.5-.28-1.15-.28-2.35 0-3.5 0 0 1 0 3 1.5 2.5 2.5C2.5 7 9 2.5 9 5.5c-2.43.91-4.83 3.34-5.5 6.5A4.8 4.8 0 0 0 9 22"></path></svg>
+      <a href={data.repo_url} target="_blank" rel="noopener noreferrer" class="flex items-center gap-1 hover:text-slate-800">
+        <span>Code</span>
+        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor" role="img" aria-label={simpleIcons.siGithub.title}>
+          <path d={simpleIcons.siGithub.path} />
+        </svg>
       </a>
     )}
   </div>
