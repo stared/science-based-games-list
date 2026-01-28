@@ -1,0 +1,61 @@
+---
+import type { CollectionEntry } from 'astro:content';
+
+interface Props {
+  game: CollectionEntry<'games'>;
+}
+
+const { game } = Astro.props;
+const { data } = game;
+---
+
+<div class="bg-white rounded-lg shadow-md hover:shadow-lg transition-shadow duration-300 overflow-hidden flex flex-col h-full border border-slate-200">
+  <div class="p-5 flex-grow">
+    <div class="flex justify-between items-start mb-2">
+      <span class="text-xs font-semibold px-2 py-1 rounded bg-indigo-100 text-indigo-800 uppercase tracking-wide">
+        {data.category}
+      </span>
+      <div class="flex gap-1">
+        {data.pricing.map(p => (
+           <span class={`text-xs px-2 py-1 rounded border ${p === 'free' ? 'bg-green-50 text-green-700 border-green-200' : 'bg-amber-50 text-amber-700 border-amber-200'}`}>
+             {p}
+           </span>
+        ))}
+      </div>
+    </div>
+    
+    <h3 class="text-xl font-bold text-slate-900 mb-1 leading-tight">
+      <a href={data.url} target="_blank" rel="noopener noreferrer" class="hover:text-indigo-600 hover:underline">
+        {data.title}
+      </a>
+    </h3>
+    
+    {data.year > 0 && <p class="text-xs text-slate-500 mb-3">{data.year}</p>}
+    
+    <p class="text-slate-600 text-sm mb-4 line-clamp-3">
+      {data.description}
+    </p>
+
+    <div class="flex flex-wrap gap-2 mt-auto">
+      {data.genres.map(genre => (
+        <span class="inline-flex items-center px-2 py-0.5 rounded text-xs font-medium bg-slate-100 text-slate-800">
+          {genre}
+        </span>
+      ))}
+    </div>
+  </div>
+  
+  <div class="bg-slate-50 px-5 py-3 border-t border-slate-100 flex justify-between items-center text-xs text-slate-500">
+    <div class="flex gap-2">
+        {data.platforms.map(platform => (
+            <span>{platform}</span>
+        ))}
+    </div>
+    {data.repo_url && (
+      <a href={data.repo_url} target="_blank" rel="noopener noreferrer" class="flex items-center hover:text-slate-800">
+        <span class="mr-1">Code</span>
+        <svg xmlns="http://www.w3.org/2000/svg" width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0 3 1.5l2.5 2.5c3.5 0 5.5 2 5.5 5.5-.69 3.16-3.09 5.61-6 6.5a4.8 4.8 0 0 0-1 3.5v4"></path><path d="M9 22v-4a4.8 4.8 0 0 0-1-3.5c-3 0-6-2-6-5.5.08-1.25.27-2.48 1-3.5-.28-1.15-.28-2.35 0-3.5 0 0 1 0 3 1.5 2.5 2.5C2.5 7 9 2.5 9 5.5c-2.43.91-4.83 3.34-5.5 6.5A4.8 4.8 0 0 0 9 22"></path></svg>
+      </a>
+    )}
+  </div>
+</div>

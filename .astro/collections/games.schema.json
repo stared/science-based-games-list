@@ -1,0 +1,93 @@
+{
+  "$ref": "#/definitions/games",
+  "definitions": {
+    "games": {
+      "type": "object",
+      "properties": {
+        "title": {
+          "type": "string"
+        },
+        "url": {
+          "type": "string",
+          "format": "uri"
+        },
+        "authors": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": [
+            "Unknown"
+          ]
+        },
+        "year": {
+          "type": "integer",
+          "default": 0
+        },
+        "category": {
+          "type": "string"
+        },
+        "sub_topics": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "genres": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "platforms": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "default": []
+        },
+        "pricing": {
+          "type": "array",
+          "items": {
+            "type": "string",
+            "enum": [
+              "free",
+              "paid"
+            ]
+          },
+          "default": [
+            "free"
+          ]
+        },
+        "description": {
+          "type": "string"
+        },
+        "image": {
+          "type": "string",
+          "default": "/placeholder.png"
+        },
+        "repo_url": {
+          "type": "string",
+          "default": ""
+        },
+        "license": {
+          "type": "string",
+          "default": "proprietary"
+        },
+        "$schema": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "title",
+        "url",
+        "category",
+        "description"
+      ],
+      "additionalProperties": false
+    }
+  },
+  "$schema": "http://json-schema.org/draft-07/schema#"
+}

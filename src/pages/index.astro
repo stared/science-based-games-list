@@ -1,0 +1,64 @@
+---
+import Layout from '../layouts/Layout.astro';
+import GameCard from '../components/GameCard.astro';
+import { getCollection } from 'astro:content';
+
+const allGames = await getCollection('games');
+
+// Group games by category
+const gamesByCategory = allGames.reduce((acc, game) => {
+  const category = game.data.category || 'Uncategorized';
+  if (!acc[category]) {
+    acc[category] = [];
+  }
+  acc[category].push(game);
+  return acc;
+}, {} as Record<string, typeof allGames>);
+
+// Sort categories (optional, but good to keep order if possible, or alphabetical)
+// The README order was: Physics, Chemistry, Biology, Computer Science, Health, Mathematics, Sociology and economy, Humanities, Design, Life experience games, Bonus
+const categoryOrder = [
+  "Physics",
+  "Chemistry",
+  "Biology",
+  "Computer science", // Note casing from migration
+  "Health",
+  "Mathematics",
+  "Sociology and economy",
+  "Humanities",
+  "Design",
+  "Life experience games",
+  "Bonus"
+];
+
+const sortedCategories = Object.keys(gamesByCategory).sort((a, b) => {
+  const indexA = categoryOrder.indexOf(a);
+  const indexB = categoryOrder.indexOf(b);
+  if (indexA !== -1 && indexB !== -1) return indexA - indexB;
+  if (indexA !== -1) return -1;
+  if (indexB !== -1) return 1;
+  return a.localeCompare(b);
+});
+---
+
+<Layout title="Science-based Games List">
+  <div class="space-y-12">
+    <div class="text-center max-w-2xl mx-auto mb-12">
+        <p class="text-lg text-slate-600">
+            A collaborative list of educational games that are actually fun to play.
+            Focusing on scientific phenomena, social sciences, and engineering.
+        </p>
+    </div>
+
+    {sortedCategories.map(category => (
+      <section>
+        <h2 class="text-3xl font-bold text-slate-800 mb-6 border-b pb-2 border-slate-200">{category}</h2>
+        <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+          {gamesByCategory[category].map(game => (
+            <GameCard game={game} />
+          ))}
+        </div>
+      </section>
+    ))}
+  </div>
+</Layout>

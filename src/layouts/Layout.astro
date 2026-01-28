@@ -1,0 +1,39 @@
+---
+interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="description" content="Science-based games list" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+	<body class="bg-slate-50 min-h-screen">
+		<header class="bg-white shadow-sm sticky top-0 z-10">
+			<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4 flex justify-between items-center">
+				<h1 class="text-2xl font-bold text-slate-800">
+					<a href="/">🔬 Science Games</a>
+				</h1>
+				<nav>
+					<a href="https://github.com/stared/science-based-games-list" class="text-slate-600 hover:text-slate-900 transition-colors">
+						GitHub
+					</a>
+				</nav>
+			</div>
+		</header>
+		<main class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
+			<slot />
+		</main>
+		<footer class="bg-slate-100 mt-auto py-8 text-center text-slate-500">
+			<p>A collaborative list dedicated to the public domain (CC0).</p>
+		</footer>
+	</body>
+</html>

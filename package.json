@@ -1,0 +1,17 @@
+{
+  "name": "science-based-games-list",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.1.1",
+    "tailwindcss": "^3.4.1",
+    "@astrojs/tailwind": "^5.1.0"
+  }
+}
