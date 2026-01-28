@@ -1,14 +1,14 @@
 ---
-title: "The Bézier Game"
-url: "https://bezier.method.ac/"
-category: "Design"
+title: "Atomix"
+url: "https://classicreload.com/atomix.html"
+category: "Chemistry"
 authors: ["Unknown"]
-year: 0
+year: 1990
 sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "Game about drawing Bézier curves."
+description: "Molecule-building puzzle game."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Card Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "addition in finite field (`Z_3^4`) real-time card game ($)"
+description: "Real-time card game based on addition in finite field (Z_3^4)."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

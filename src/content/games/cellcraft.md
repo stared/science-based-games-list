@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Strategy"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "cell biology real-time strategy web-based Flash (free of charge)"
+description: "Real-time strategy game exploring cell biology."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

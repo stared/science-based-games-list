@@ -5,10 +5,10 @@ category: "Life experience games"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
-platforms: ["Windows","Linux","macOS"]
+genres: ["Adventure"]
+platforms: ["Windows","Linux","macOS","PlayStation 4"]
 pricing: ["free","paid"]
-description: "existentialism, transhumanism, mind-uploading survival first-person perspective Steam ($) (this one even more subjective, just one allowing to *feel* some *philosophical* problems)"
+description: "Survival first-person game exploring existentialism, transhumanism, and mind-uploading."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

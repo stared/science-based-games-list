@@ -5,10 +5,10 @@ category: "Humanities"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
+genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "variants of the Snake game philosophical concepts web (free of charge)"
+description: "Variants of the Snake game exploring philosophical concepts."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

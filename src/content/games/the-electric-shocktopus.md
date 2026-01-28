@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Arcade"]
 platforms: ["Windows","Linux","macOS","Web"]
 pricing: ["free","paid"]
-description: "electromagnetism platformer"
+description: "Platformer exploring electromagnetism."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle","Arcade"]
 platforms: ["iOS"]
 pricing: ["free"]
-description: "quantum operations on 2 quibits puzzle iOS (free)"
+description: "Puzzle game exploring quantum operations on 2 qubits."
 image: "/placeholder.png"
 repo_url: "https://github.com/decodoku/Quantum_Programming_Tutorial"
 license: "proprietary"

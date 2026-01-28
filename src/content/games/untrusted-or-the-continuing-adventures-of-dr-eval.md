@@ -8,8 +8,8 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "programming in JavaScript roguelike, puzzle web, JavaScript (free of charge)"
+description: "Roguelike puzzle game teaching programming in JavaScript."
 image: "/placeholder.png"
-repo_url: "https://github.com/AlexNisnevich/untrusted](https://github.com/AlexNisnevich/untrusted"
+repo_url: "https://github.com/AlexNisnevich/untrusted"
 license: "CC BY-NC-SA"
 ---

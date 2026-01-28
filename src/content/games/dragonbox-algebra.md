@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Android","iOS"]
 pricing: ["free","paid"]
-description: "Entertaining puzzle game stealthily teaches you to solve algebraic equations Android ($), iOS ($)"
+description: "Puzzle game that teaches solving algebraic equations through gameplay."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

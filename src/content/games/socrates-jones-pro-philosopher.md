@@ -5,10 +5,10 @@ category: "Humanities"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
-platforms: []
+genres: ["Adventure"]
+platforms: ["Web"]
 pricing: ["free"]
-description: "visual novel based on Ace Attorney series different concepts of ethics"
+description: "Visual novel based on Ace Attorney series exploring different concepts of ethics."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

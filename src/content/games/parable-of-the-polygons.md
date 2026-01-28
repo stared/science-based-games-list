@@ -8,8 +8,8 @@ sub_topics: []
 genres: ["Simulation"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "social diversity, racial segregation (and phase transitions) agent-based simulation web (free of charge)"
+description: "Agent-based simulation exploring social diversity, racial segregation, and phase transitions."
 image: "/placeholder.png"
-repo_url: "https://github.com/ncase/polygons](https://github.com/ncase/polygons"
+repo_url: "https://github.com/ncase/polygons"
 license: "CC0"
 ---

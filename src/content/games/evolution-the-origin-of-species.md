@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Card Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "evolution card game ($)"
+description: "Card game exploring evolution."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

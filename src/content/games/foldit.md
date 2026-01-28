@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Windows","Linux","macOS"]
 pricing: ["free"]
-description: "protein conformation 3d puzzle citizen science"
+description: "3D puzzle game for citizen science, focusing on protein conformation."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

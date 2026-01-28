@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Windows","Linux","Android"]
 pricing: ["free","paid"]
-description: "algorithms puzzle"
+description: "Puzzle game exploring algorithms."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

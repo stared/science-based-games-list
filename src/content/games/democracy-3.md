@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Strategy"]
 platforms: ["Windows","Linux","macOS"]
 pricing: ["free","paid"]
-description: "democracy, ruling country turn-based economical strategy"
+description: "Turn-based strategy game exploring democracy and ruling a country through economic decisions."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

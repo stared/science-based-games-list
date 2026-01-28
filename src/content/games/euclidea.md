@@ -5,10 +5,10 @@ category: "Mathematics"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
+genres: ["Puzzle"]
 platforms: ["Android","iOS","Web"]
 pricing: ["free"]
-description: "planar geometry web, Android, iOS (free of charge)"
+description: "Puzzle game exploring planar geometry."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

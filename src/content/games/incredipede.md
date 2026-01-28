@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle","Arcade"]
 platforms: []
 pricing: ["free"]
-description: "anatomy puzzle-platformer Unity-based"
+description: "Puzzle-platformer exploring anatomy."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

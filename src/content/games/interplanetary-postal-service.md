@@ -5,10 +5,10 @@ category: "Physics"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
-platforms: ["macOS","Web"]
+genres: ["Simulation"]
+platforms: ["Web"]
 pricing: ["free"]
-description: "Fluid dynamics Lunar Lander genre web (free of charge)"
+description: "Lunar Lander-style game exploring fluid dynamics."
 image: "/placeholder.png"
 repo_url: "https://github.com/s-macke/Interplanetary-Postal-Service"
 license: "proprietary"

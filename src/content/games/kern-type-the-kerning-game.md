@@ -1,14 +1,14 @@
 ---
 title: "Kern Type, the kerning game"
-url: "https://type.method.ac/](type.method.ac)"
+url: "https://type.method.ac/"
 category: "Design"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
+genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "adjusting letters web (free of charge)"
+description: "Game about adjusting letter spacing (kerning) in typography."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

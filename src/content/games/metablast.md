@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Simulation"]
 platforms: ["Windows","macOS"]
 pricing: ["free"]
-description: "plant and cell biology flight simulator nice descriptions of encountered elements"
+description: "Flight simulator exploring plant and cell biology, with detailed descriptions of encountered elements."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

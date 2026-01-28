@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle","Simulation"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "quantum mechanics, quantum optics puzzle / board / simulator web (free of charge)"
+description: "Puzzle and simulator exploring quantum mechanics and quantum optics."
 image: "/placeholder.png"
 repo_url: "https://github.com/stared/quantum-game"
 license: "MIT"

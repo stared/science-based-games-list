@@ -8,8 +8,8 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "many puzzle games about programming and algorithms web-based (free of charge)"
+description: "Collection of puzzle games teaching programming and algorithms."
 image: "/placeholder.png"
-repo_url: "https://github.com/code-dot-org/code-dot-org](https://github.com/code-dot-org/code-dot-org"
+repo_url: "https://github.com/code-dot-org/code-dot-org"
 license: "proprietary"
 ---

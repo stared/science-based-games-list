@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Windows","macOS"]
 pricing: ["free"]
-description: "geometric optics puzzle warning: a few elements are unreal (most are real, though)"
+description: "Puzzle game exploring geometric optics. Note: a few elements are simplified, though most are realistic."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

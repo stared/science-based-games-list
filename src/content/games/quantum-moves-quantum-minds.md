@@ -5,10 +5,10 @@ category: "Physics"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: ["Puzzle"]
-platforms: ["Windows","Linux","macOS","Android","iOS","Windows","macOS"]
+genres: ["Puzzle","Action"]
+platforms: ["Windows","Linux","macOS","Android","iOS"]
 pricing: ["free"]
-description: "adiabatic processes for quantum states puzzle / action citizen science"
+description: "Citizen science puzzle game exploring adiabatic processes for quantum states."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

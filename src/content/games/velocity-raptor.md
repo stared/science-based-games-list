@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle","Arcade"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "special relativity theory contraction, time dilation, Doppler shift 2D arcade / puzzle on web (Flash) (free of charge)"
+description: "2D arcade puzzle game exploring special relativity theory, including contraction, time dilation, and Doppler shift."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Board Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "molecules board game ($)"
+description: "Molecule-building board game."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

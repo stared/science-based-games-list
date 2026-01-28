@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Board Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "models space mission logistics living game board and rules incorporate actual data as it is discovered realistic resource usage and physics modeling board game ($)"
+description: "Board game modeling space mission logistics with rules that incorporate actual data as it is discovered, featuring realistic resource usage and physics modeling."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

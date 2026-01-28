@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Board Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "cell biology board game ($)"
+description: "Board game exploring cell biology."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

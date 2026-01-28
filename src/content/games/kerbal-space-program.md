@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Strategy"]
 platforms: ["Windows","Linux","macOS"]
 pricing: ["free","paid"]
-description: "Newtonian physics, space program strategy"
+description: "Strategy game exploring Newtonian physics and space program logistics."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

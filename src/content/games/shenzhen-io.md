@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Windows","Linux","macOS"]
 pricing: ["free","paid"]
-description: "programming puzzle"
+description: "Programming puzzle game."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

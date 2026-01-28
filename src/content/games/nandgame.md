@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "digital logic and computer design puzzle build a processor from start web-based (free of charge)"
+description: "Puzzle game teaching digital logic and computer design by building a processor from scratch."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

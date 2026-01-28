@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["RPG"]
 platforms: ["Windows","Linux","macOS","Android","iOS"]
 pricing: ["free","paid"]
-description: "horrors of being a civilian in a besieged city survival RPG Steam ($)"
+description: "Survival RPG exploring the horrors of being a civilian in a besieged city."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Simulation","Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "Electric circuits Puzzle Emulate electric circuits using mechanical devices web (free of charge)"
+description: "Simulator that emulates electric circuits using mechanical devices."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

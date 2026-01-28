@@ -8,8 +8,8 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "graph theory puzzle web (free of charge)"
+description: "Puzzle game exploring graph theory."
 image: "/placeholder.png"
-repo_url: "https://github.com/jacquerie/hh](https://github.com/jacquerie/hh"
+repo_url: "https://github.com/jacquerie/hh"
 license: "MIT"
 ---

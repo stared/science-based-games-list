@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Board Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "molecular genetics board game ($)"
+description: "Board game exploring molecular genetics."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

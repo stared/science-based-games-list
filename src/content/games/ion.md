@@ -5,10 +5,10 @@ category: "Chemistry"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: ["Board Game","Puzzle"]
+genres: ["Board Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "compounds board game ($) molecules puzzle game DOS"
+description: "Board game about building compounds and molecules."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

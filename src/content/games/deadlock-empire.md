@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "Multi-threading puzzle web (free of charge)"
+description: "Puzzle game teaching multi-threading concepts."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

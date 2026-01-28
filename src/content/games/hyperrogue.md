@@ -5,11 +5,11 @@ category: "Mathematics"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
-platforms: ["Windows","Linux","macOS","Android","iOS","Android","iOS"]
+genres: ["Roguelike"]
+platforms: ["Windows","Linux","macOS","Android","iOS"]
 pricing: ["free"]
-description: "geometry of hyperbolic plane a rogue-like game"
+description: "Roguelike game exploring the geometry of the hyperbolic plane."
 image: "/placeholder.png"
-repo_url: "https://github.com/zenorogue/hyperrogue](https://github.com/zenorogue/hyperrogue"
+repo_url: "https://github.com/zenorogue/hyperrogue"
 license: "GPL"
 ---

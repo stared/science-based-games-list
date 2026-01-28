@@ -5,11 +5,11 @@ category: "Computer science"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
+genres: ["Puzzle"]
 platforms: ["Windows","macOS","Android","iOS","Web"]
 pricing: ["free"]
-description: "quantum computation quantum error correction citizen science"
+description: "Citizen science game exploring quantum computation and quantum error correction."
 image: "/placeholder.png"
-repo_url: "https://github.com/decodoku](https://github.com/decodoku"
+repo_url: "https://github.com/decodoku"
 license: "MIT"
 ---

@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Windows","Android","iOS","Web"]
 pricing: ["free"]
-description: "algorithms puzzle user-generated content"
+description: "Puzzle game teaching algorithms, with user-generated content."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

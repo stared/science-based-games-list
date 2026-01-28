@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Board Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "viruses board game ($)"
+description: "Card game exploring viruses."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

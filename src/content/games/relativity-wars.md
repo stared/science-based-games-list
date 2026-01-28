@@ -5,10 +5,10 @@ category: "Physics"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: ["Strategy","Strategy","Arcade","Strategy"]
+genres: ["Strategy","Arcade"]
 platforms: ["Windows","macOS","Android","iOS"]
 pricing: ["free","paid"]
-description: "space arcade / RTS some parts of relativity"
+description: "Space arcade and RTS game exploring some aspects of relativity."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

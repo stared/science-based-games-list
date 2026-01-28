@@ -1,7 +1,7 @@
 ---
 title: "Sokobond"
 url: "http://www.sokobond.com/"
-category: "Atomix (1990)"
+category: "Chemistry"
 authors: ["Unknown"]
 year: 0
 sub_topics: []

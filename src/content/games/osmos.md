@@ -5,10 +5,10 @@ category: "Physics"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: ["Puzzle","Strategy"]
+genres: ["Puzzle","Strategy","Action"]
 platforms: ["Windows","Linux","macOS","Android","iOS"]
 pricing: ["free","paid"]
-description: "gravity and conservation of momentum puzzle / action / strategy"
+description: "Puzzle game exploring gravity and conservation of momentum."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

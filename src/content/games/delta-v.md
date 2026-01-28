@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Simulation"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "Newtonian physics, orbital mechanics simulation on web (free of charge)"
+description: "Simulation exploring Newtonian physics and orbital mechanics."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

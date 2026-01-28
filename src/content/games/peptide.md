@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Board Game"]
 platforms: []
 pricing: ["free","paid"]
-description: "proteins board game ($)"
+description: "Board game about building proteins."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

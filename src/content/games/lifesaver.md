@@ -5,10 +5,10 @@ category: "Health"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
+genres: ["Adventure"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "cardiopulmonary resuscitation (CPR) interactive video story, fast-paced web-based (Flash) (free of charge)"
+description: "Interactive video story teaching cardiopulmonary resuscitation (CPR) through fast-paced gameplay."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

@@ -5,10 +5,10 @@ category: "Biology"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
+genres: ["Simulation"]
 platforms: ["Android"]
 pricing: ["free"]
-description: "evolution, cell biology design of reproducing organisms Android (free of charge)"
+description: "Design and evolve reproducing organisms, exploring evolution and cell biology."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

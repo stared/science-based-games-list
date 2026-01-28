@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Puzzle"]
 platforms: ["Web"]
 pricing: ["free"]
-description: "Turing tape, programming puzzle web (free of charge)"
+description: "Puzzle game exploring Turing tape and programming concepts."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

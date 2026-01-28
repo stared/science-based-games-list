@@ -6,9 +6,9 @@ authors: ["Unknown"]
 year: 0
 sub_topics: []
 genres: ["Puzzle"]
-platforms: ["iOS","iOS","Web"]
+platforms: ["iOS","Web"]
 pricing: ["free"]
-description: "fractions puzzle web, iOS (free of charge)"
+description: "Puzzle game teaching fractions."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

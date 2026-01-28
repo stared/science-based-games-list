@@ -6,9 +6,9 @@ authors: ["Unknown"]
 year: 0
 sub_topics: []
 genres: ["Puzzle"]
-platforms: ["macOS","Windows","Linux","macOS","Android","iOS"]
+platforms: ["macOS","Windows","Linux","Android","iOS"]
 pricing: ["free","paid"]
-description: "programming puzzle automation and optimization from the designers of Little Inferno and World of Goo"
+description: "Programming puzzle game focusing on automation and optimization."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"

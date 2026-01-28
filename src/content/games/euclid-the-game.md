@@ -5,11 +5,11 @@ category: "Mathematics"
 authors: ["Unknown"]
 year: 0
 sub_topics: []
-genres: []
-platforms: ["iOS","Web","iOS"]
+genres: ["Puzzle"]
+platforms: ["iOS","Web"]
 pricing: ["free"]
-description: "planar geometry web (link above looks dead, though), iOS"
+description: "Puzzle game exploring planar geometry."
 image: "/placeholder.png"
-repo_url: "https://github.com/euclidthegame/euclidthegame.iOS](https://github.com/euclidthegame/euclidthegame.iOS"
+repo_url: "https://github.com/euclidthegame/euclidthegame.iOS"
 license: "MIT"
 ---

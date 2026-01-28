@@ -8,7 +8,7 @@ sub_topics: []
 genres: ["Strategy"]
 platforms: ["Windows","macOS","Android","iOS"]
 pricing: ["free","paid"]
-description: "Israel-Palestine peace process (unfortunately outdated and too optimistic) strategy"
+description: "Strategy game exploring the Israel-Palestine peace process."
 image: "/placeholder.png"
 repo_url: ""
 license: "proprietary"
