@@ -560,6 +560,13 @@ A mini table of contents: [Physics](#physics), [Chemistry](#chemistry), [Biology
 * 3d adventure game
 * GNU/Linux ($), MacOS ($), Windows ($) with free of charge demo
 
+#### Bella and Pan
+
+* [bellaandpan.com/game](https://bellaandpan.com/game)
+* arithmetic: addition, subtraction, multiplication, division and order of operations
+* adventure game with missing number problems and optional worked examples
+* [iPhone and iPad](https://apps.apple.com/us/app/bella-and-pan/id6795701835) ($)
+
 #### Euclid the Game
 
 * [euclidthegame.com](http://euclidthegame.com/)
